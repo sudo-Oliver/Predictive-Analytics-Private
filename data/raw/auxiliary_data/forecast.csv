@@ -1,0 +1,2095 @@
+locationid	dateforecastfor	dateforecastmade	maxtemp	mintemp	tempunit	conditions	conditionsicon
+Edinburgh	2016-08-10	2016-08-10	13	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-08-11	2016-08-11	17	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-08-12	2016-08-12	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-08-13	2016-08-13	16	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-08-14	2016-08-14	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-08-15	2016-08-15	19	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-08-16	2016-08-16	21	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-08-17	2016-08-17	20	11	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2016-08-18	2016-08-18	20	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-08-19	2016-08-19	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-08-21	2016-08-21	18	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-08-20	2016-08-20	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-08-22	2016-08-22	20	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-08-23	2016-08-23	17	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-08-24	2016-08-24	21	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-08-25	2016-08-25	14	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-08-28	2016-08-28	19	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-08-26	2016-08-26	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-08-27	2016-08-27	18	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-08-31	2016-08-31	16	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2016-08-29	2016-08-29	18	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-08-30	2016-08-30	21	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-01	2016-09-01	17	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-09-02	2016-09-02	18	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-09-03	2016-09-03	17	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-09-04	2016-09-04	21	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-09-05	2016-09-05	21	16	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-06	2016-09-06	22	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-07	2016-09-07	22	16	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-08	2016-09-08	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-09	2016-09-09	17	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-09-10	2016-09-10	17	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-11	2016-09-11	17	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-12	2016-09-12	21	17	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-09-13	2016-09-13	21	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-14	2016-09-14	14	13	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2016-09-16	2016-09-16	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-15	2016-09-15	18	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-09-17	2016-09-17	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-18	2016-09-18	18	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-19	2016-09-19	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-20	2016-09-20	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-23	2016-09-23	15	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-21	2016-09-21	16	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-09-22	2016-09-22	14	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-09-24	2016-09-24	18	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-25	2016-09-25	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-26	2016-09-26	12	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-09-27	2016-09-27	17	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-09-28	2016-09-28	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-29	2016-09-29	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-09-30	2016-09-30	12	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-02	2016-10-02	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-01	2016-10-01	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-03	2016-10-03	15	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-10-04	2016-10-04	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-06	2016-10-06	13	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2016-10-05	2016-10-05	15	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-10-07	2016-10-07	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-08	2016-10-08	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-09	2016-10-09	12	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-10	2016-10-10	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-11	2016-10-11	12	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-12	2016-10-12	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-15	2016-10-15	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-13	2016-10-13	12	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-14	2016-10-14	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-17	2016-10-17	13	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-10-16	2016-10-16	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-18	2016-10-18	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-19	2016-10-19	12	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-20	2016-10-20	12	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-10-21	2016-10-21	11	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-22	2016-10-22	11	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-23	2016-10-23	10	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-10-24	2016-10-24	9	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-10-25	2016-10-25	12	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2016-10-26	2016-10-26	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-27	2016-10-27	13	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-28	2016-10-28	12	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-10-29	2016-10-29	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-10-30	2016-10-30	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-02	2016-11-02	10	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-10-31	2016-10-31	13	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-11-01	2016-11-01	9	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-11-03	2016-11-03	8	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-04	2016-11-04	8	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-11-05	2016-11-05	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-06	2016-11-06	7	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-11-08	2016-11-08	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-11-07	2016-11-07	6	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-09	2016-11-09	4	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-11-10	2016-11-10	7	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-11	2016-11-11	7	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-11-12	2016-11-12	11	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-14	2016-11-14	13	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2016-11-13	2016-11-13	10	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-11-15	2016-11-15	13	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-11-16	2016-11-16	10	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-11-18	2016-11-18	5	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-17	2016-11-17	5	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-11-19	2016-11-19	5	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-11-20	2016-11-20	1	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-21	2016-11-21	4	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-11-22	2016-11-22	6	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-24	2016-11-24	2	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-11-23	2016-11-23	2	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-11-25	2016-11-25	3	1	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2016-11-26	2016-11-26	8	2	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2016-11-27	2016-11-27	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-28	2016-11-28	6	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-29	2016-11-29	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-11-30	2016-11-30	8	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-01	2016-12-01	10	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-02	2016-12-02	7	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2016-12-03	2016-12-03	6	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-04	2016-12-04	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-07	2016-12-07	13	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-05	2016-12-05	2	-2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2016-12-06	2016-12-06	5	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-08	2016-12-08	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-09	2016-12-09	12	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-10	2016-12-10	10	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-11	2016-12-11	9	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-13	2016-12-13	7	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-12	2016-12-12	8	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-14	2016-12-14	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-15	2016-12-15	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-16	2016-12-16	10	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-17	2016-12-17	7	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2016-12-18	2016-12-18	9	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-22	2016-12-22	5	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-19	2016-12-19	8	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-12-20	2016-12-20	7	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-12-21	2016-12-21	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-24	2016-12-24	6	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2016-12-23	2016-12-23	9	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-12-25	2016-12-25	12	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2016-12-26	2016-12-26	5	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-28	2016-12-28	7	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-27	2016-12-27	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-30	2016-12-30	12	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2016-12-29	2016-12-29	8	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2016-12-31	2016-12-31	11	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-01-01	2017-01-01	6	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-02	2017-01-02	3	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-04	2017-01-04	7	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-01-03	2017-01-03	7	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-05	2017-01-05	2	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-01-06	2017-01-06	10	5	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2017-01-07	2017-01-07	8	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-01-08	2017-01-08	10	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-01-09	2017-01-09	10	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-01-10	2017-01-10	8	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-01-11	2017-01-11	9	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-01-12	2017-01-12	2	-1	C	Chance of Snow	http://icons.wxug.com/i/c/k/chancesnow.gif
+Edinburgh	2017-01-13	2017-01-13	3	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-16	2017-01-16	8	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-01-14	2017-01-14	3	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-01-15	2017-01-15	9	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-01-17	2017-01-17	10	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-18	2017-01-18	8	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-20	2017-01-20	6	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-19	2017-01-19	8	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-21	2017-01-21	3	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-01-22	2017-01-22	3	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-23	2017-01-23	5	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-24	2017-01-24	10	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-01-25	2017-01-25	9	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-26	2017-01-26	4	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-01-27	2017-01-27	4	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-01-28	2017-01-28	4	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-01-29	2017-01-29	5	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-30	2017-01-30	5	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-02	2017-02-02	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-01-31	2017-01-31	8	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-01	2017-02-01	10	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-02-03	2017-02-03	10	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-07	2017-02-07	4	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-04	2017-02-04	6	1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-02-06	2017-02-06	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-05	2017-02-05	5	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-02-08	2017-02-08	6	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-02-11	2017-02-11	3	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-02-09	2017-02-09	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-02-10	2017-02-10	3	-1	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-02-12	2017-02-12	3	2	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-02-13	2017-02-13	5	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-02-15	2017-02-15	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-14	2017-02-14	8	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-02-19	2017-02-19	11	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-02-16	2017-02-16	10	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-02-17	2017-02-17	8	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-02-18	2017-02-18	11	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-02-20	2017-02-20	12	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-02-22	2017-02-22	8	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-02-21	2017-02-21	11	4	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-02-23	2017-02-23	5	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-24	2017-02-24	7	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-02-25	2017-02-25	11	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-26	2017-02-26	10	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-27	2017-02-27	6	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-02-28	2017-02-28	7	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-03-01	2017-03-01	7	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-03-02	2017-03-02	8	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-03	2017-03-03	5	4	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-03-04	2017-03-04	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-05	2017-03-05	7	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-06	2017-03-06	9	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-07	2017-03-07	10	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-08	2017-03-08	11	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-10	2017-03-10	10	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-03-09	2017-03-09	11	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-11	2017-03-11	13	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-12	2017-03-12	11	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-03-13	2017-03-13	12	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-03-14	2017-03-14	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-03-15	2017-03-15	13	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-03-16	2017-03-16	12	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-17	2017-03-17	10	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-03-18	2017-03-18	11	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-03-19	2017-03-19	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-20	2017-03-20	8	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-03-21	2017-03-21	7	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-03-22	2017-03-22	5	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-03-23	2017-03-23	7	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-03-25	2017-03-25	16	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-03-24	2017-03-24	12	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-03-26	2017-03-26	11	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-03-27	2017-03-27	12	4	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2017-03-28	2017-03-28	9	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-03-29	2017-03-29	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-30	2017-03-30	15	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-03-31	2017-03-31	15	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-01	2017-04-01	15	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-02	2017-04-02	15	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-04-03	2017-04-03	13	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-04	2017-04-04	13	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-04-05	2017-04-05	12	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-06	2017-04-06	14	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-08	2017-04-08	18	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-04-07	2017-04-07	12	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-09	2017-04-09	15	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-10	2017-04-10	12	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-12	2017-04-12	13	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-11	2017-04-11	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-13	2017-04-13	12	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-04-14	2017-04-14	12	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-15	2017-04-15	11	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-16	2017-04-16	8	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-17	2017-04-17	11	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-18	2017-04-18	10	5	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-04-19	2017-04-19	13	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-04-20	2017-04-20	15	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-04-21	2017-04-21	15	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-22	2017-04-22	13	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-23	2017-04-23	14	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-24	2017-04-24	10	0	C	Chance of Snow	http://icons.wxug.com/i/c/k/chancesnow.gif
+Edinburgh	2017-04-25	2017-04-25	7	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-26	2017-04-26	10	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-04-27	2017-04-27	13	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-28	2017-04-28	13	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-29	2017-04-29	13	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-04-30	2017-04-30	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-01	2017-05-01	11	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-05-02	2017-05-02	11	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-05-03	2017-05-03	13	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-05-04	2017-05-04	10	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-05-05	2017-05-05	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-06	2017-05-06	12	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-05-07	2017-05-07	14	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-08	2017-05-08	11	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-05-09	2017-05-09	19	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-05-10	2017-05-10	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-11	2017-05-11	15	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-12	2017-05-12	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-13	2017-05-13	15	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-14	2017-05-14	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-15	2017-05-15	16	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-05-16	2017-05-16	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-17	2017-05-17	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-18	2017-05-18	16	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-19	2017-05-19	16	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-20	2017-05-20	13	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-21	2017-05-21	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-22	2017-05-22	18	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-23	2017-05-23	19	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-05-24	2017-05-24	22	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-05-25	2017-05-25	22	14	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-05-26	2017-05-26	27	14	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-05-27	2017-05-27	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-28	2017-05-28	24	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-29	2017-05-29	14	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-05-31	2017-05-31	19	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-05-30	2017-05-30	20	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-01	2017-06-01	20	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-02	2017-06-02	21	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-06-03	2017-06-03	17	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-04	2017-06-04	17	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-05	2017-06-05	19	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-06	2017-06-06	12	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-07	2017-06-07	17	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-08	2017-06-08	12	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-09	2017-06-09	17	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-10	2017-06-10	21	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-06-11	2017-06-11	17	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-12	2017-06-12	16	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-06-13	2017-06-13	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-14	2017-06-14	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-15	2017-06-15	21	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-16	2017-06-16	18	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-06-17	2017-06-17	27	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-18	2017-06-18	27	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-19	2017-06-19	21	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-20	2017-06-20	15	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-21	2017-06-21	20	13	C	Chance of a Thunderstorm	http://icons.wxug.com/i/c/k/chancetstorms.gif
+Edinburgh	2017-06-22	2017-06-22	22	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-06-23	2017-06-23	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-24	2017-06-24	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-25	2017-06-25	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-06-26	2017-06-26	15	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-27	2017-06-27	13	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-06-28	2017-06-28	14	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-29	2017-06-29	11	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-06-30	2017-06-30	13	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-07-01	2017-07-01	19	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-02	2017-07-02	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-03	2017-07-03	19	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-07-04	2017-07-04	13	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-07-05	2017-07-05	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-06	2017-07-06	20	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-07	2017-07-07	20	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-08	2017-07-08	21	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-09	2017-07-09	15	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-10	2017-07-10	13	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-11	2017-07-11	15	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-07-12	2017-07-12	18	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-07-13	2017-07-13	20	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-14	2017-07-14	18	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-07-15	2017-07-15	22	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-16	2017-07-16	20	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-17	2017-07-17	23	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-07-18	2017-07-18	25	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-07-19	2017-07-19	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-20	2017-07-20	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-21	2017-07-21	19	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-22	2017-07-22	15	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-07-23	2017-07-23	16	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-07-24	2017-07-24	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-25	2017-07-25	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-26	2017-07-26	18	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-27	2017-07-27	20	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-28	2017-07-28	20	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-07-29	2017-07-29	21	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-07-30	2017-07-30	21	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-07-31	2017-07-31	20	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-01	2017-08-01	20	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-08-02	2017-08-02	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-03	2017-08-03	21	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-04	2017-08-04	17	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-05	2017-08-05	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-06	2017-08-06	16	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-07	2017-08-07	19	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-08	2017-08-08	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-09	2017-08-09	20	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-10	2017-08-10	16	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-08-11	2017-08-11	21	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-08-12	2017-08-12	18	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-13	2017-08-13	20	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-14	2017-08-14	18	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-08-15	2017-08-15	21	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-08-16	2017-08-16	18	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-17	2017-08-17	22	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-08-18	2017-08-18	16	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-19	2017-08-19	17	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-20	2017-08-20	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-21	2017-08-21	16	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-22	2017-08-22	19	14	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-08-23	2017-08-23	22	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-24	2017-08-24	21	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-08-25	2017-08-25	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-08-26	2017-08-26	21	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-27	2017-08-27	21	16	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-08-28	2017-08-28	21	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-29	2017-08-29	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-30	2017-08-30	18	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-08-31	2017-08-31	20	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-01	2017-09-01	17	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-09-02	2017-09-02	20	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-03	2017-09-03	18	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-04	2017-09-04	17	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-08	2017-09-08	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-05	2017-09-05	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-06	2017-09-06	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-07	2017-09-07	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-09	2017-09-09	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-10	2017-09-10	16	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-11	2017-09-11	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-12	2017-09-12	16	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-13	2017-09-13	13	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-14	2017-09-14	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-09-15	2017-09-15	15	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-16	2017-09-16	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-09-17	2017-09-17	15	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-09-18	2017-09-18	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-19	2017-09-19	17	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-09-20	2017-09-20	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-09-21	2017-09-21	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-22	2017-09-22	15	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-23	2017-09-23	18	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-09-24	2017-09-24	18	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-25	2017-09-25	16	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-09-26	2017-09-26	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-09-27	2017-09-27	17	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-09-28	2017-09-28	18	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-09-29	2017-09-29	17	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-09-30	2017-09-30	13	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-10-01	2017-10-01	16	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-02	2017-10-02	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-03	2017-10-03	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-04	2017-10-04	11	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-10-05	2017-10-05	15	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-10-06	2017-10-06	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-07	2017-10-07	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-08	2017-10-08	16	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-10-09	2017-10-09	16	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-10-10	2017-10-10	13	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-11	2017-10-11	13	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-10-12	2017-10-12	13	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-13	2017-10-13	20	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-10-14	2017-10-14	15	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-15	2017-10-15	17	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-16	2017-10-16	13	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-17	2017-10-17	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-18	2017-10-18	11	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-10-19	2017-10-19	13	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-10-20	2017-10-20	16	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-10-21	2017-10-21	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-22	2017-10-22	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-23	2017-10-23	15	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-10-24	2017-10-24	14	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-25	2017-10-25	13	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-26	2017-10-26	13	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-10-27	2017-10-27	11	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-10-28	2017-10-28	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-10-29	2017-10-29	11	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-10-30	2017-10-30	8	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-10-31	2017-10-31	14	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-01	2017-11-01	12	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-02	2017-11-02	9	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-03	2017-11-03	10	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-04	2017-11-04	9	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-05	2017-11-05	7	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-06	2017-11-06	11	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-11-07	2017-11-07	11	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-08	2017-11-08	7	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-09	2017-11-09	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-10	2017-11-10	7	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-11	2017-11-11	7	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-12	2017-11-12	6	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-13	2017-11-13	6	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-14	2017-11-14	10	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-15	2017-11-15	7	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-16	2017-11-16	10	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-17	2017-11-17	8	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-18	2017-11-18	6	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-19	2017-11-19	5	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-11-21	2017-11-21	11	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-20	2017-11-20	6	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-11-22	2017-11-22	10	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-11-23	2017-11-23	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-24	2017-11-24	2	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-25	2017-11-25	3	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-26	2017-11-26	4	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-27	2017-11-27	6	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-11-28	2017-11-28	5	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-11-29	2017-11-29	3	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-11-30	2017-11-30	2	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-11-28	2017-11-28	5	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-11-29	2017-11-29	3	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-11-30	2017-11-29	2	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2017-11-28	2017-11-28	5	-2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2017-11-29	2017-11-29	4	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-11-30	2017-11-29	2	-2	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+EastLothian	2017-11-28	2017-11-28	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-11-29	2017-11-29	5	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-11-30	2017-11-29	4	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-11-28	2017-11-28	6	-2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-11-29	2017-11-29	4	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2017-11-30	2017-11-29	3	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-12-01	2017-12-01	4	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2017-12-01	2017-11-29	3	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2017-12-01	2017-11-29	3	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2017-12-01	2017-11-29	4	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-01	2017-11-29	4	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2017-12-02	2017-11-29	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-12-02	2017-12-02	7	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2017-12-02	2017-11-29	6	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-02	2017-11-29	8	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-02	2017-11-29	7	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-03	2017-12-03	7	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-04	2017-12-04	8	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-12-05	2017-12-05	8	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-03	2017-12-02	7	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-04	2017-12-02	8	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-05	2017-12-02	8	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-03	2017-12-02	6	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-04	2017-12-02	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-06	2017-12-06	11	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-12-07	2017-12-07	12	-2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-12-08	2017-12-08	1	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-12-06	2017-12-05	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2017-12-07	2017-12-05	7	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-08	2017-12-05	2	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2017-12-06	2017-12-05	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-07	2017-12-05	7	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-08	2017-12-05	2	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2017-12-06	2017-12-05	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-07	2017-12-05	8	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-08	2017-12-05	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-06	2017-12-05	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-07	2017-12-05	8	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-08	2017-12-05	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-09	2017-12-09	1	-6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-12-10	2017-12-10	-1	-4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-12-11	2017-12-11	1	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-09	2017-12-08	2	-6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-12-10	2017-12-08	-1	-4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-11	2017-12-08	1	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2017-12-09	2017-12-08	1	-6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2017-12-10	2017-12-08	-1	-4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-11	2017-12-08	1	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2017-12-09	2017-12-08	3	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2017-12-10	2017-12-08	2	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-11	2017-12-08	3	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-09	2017-12-08	2	-5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-10	2017-12-08	1	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-11	2017-12-08	2	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-12-13	2017-12-13	5	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-12	2017-12-12	4	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-12-14	2017-12-14	2	-2	C	Ice Pellets	http://icons.wxug.com/i/c/k/sleet.gif
+WestLothian	2017-12-12	2017-12-11	3	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2017-12-13	2017-12-11	3	-1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2017-12-14	2017-12-11	2	-2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-12	2017-12-11	3	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-13	2017-12-11	3	-1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2017-12-14	2017-12-11	2	-2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+EastLothian	2017-12-12	2017-12-11	4	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-13	2017-12-11	5	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-14	2017-12-11	4	1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2017-12-12	2017-12-11	3	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2017-12-13	2017-12-11	4	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-14	2017-12-11	4	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-12-15	2017-12-15	3	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-12-16	2017-12-16	2	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-12-17	2017-12-17	8	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-15	2017-12-14	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-16	2017-12-14	2	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-17	2017-12-14	7	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-15	2017-12-14	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-16	2017-12-14	2	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-17	2017-12-14	7	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-15	2017-12-14	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-16	2017-12-14	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-17	2017-12-14	8	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-15	2017-12-14	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-16	2017-12-14	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-17	2017-12-14	8	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-12-18	2017-12-18	6	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2017-12-19	2017-12-19	11	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-12-20	2017-12-20	11	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2017-12-18	2017-12-17	6	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2017-12-19	2017-12-17	11	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2017-12-20	2017-12-17	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-18	2017-12-17	6	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-19	2017-12-17	11	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2017-12-20	2017-12-17	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-18	2017-12-17	7	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2017-12-19	2017-12-17	11	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2017-12-20	2017-12-17	10	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-18	2017-12-17	7	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-19	2017-12-17	11	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2017-12-20	2017-12-17	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2017-12-21	2017-12-21	7	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-22	2017-12-22	8	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2017-12-23	2017-12-23	12	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2017-12-21	2017-12-20	7	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2017-12-22	2017-12-20	8	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2017-12-23	2017-12-20	11	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-21	2017-12-20	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-22	2017-12-20	8	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2017-12-23	2017-12-20	11	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-21	2017-12-20	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-24	2017-12-24	12	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-12-25	2017-12-25	10	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-12-26	2017-12-26	2	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-12-24	2017-12-23	10	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2017-12-25	2017-12-23	7	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2017-12-26	2017-12-23	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-24	2017-12-23	10	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-25	2017-12-23	7	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2017-12-26	2017-12-23	3	-1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2017-12-24	2017-12-23	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-25	2017-12-23	8	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2017-12-26	2017-12-23	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2017-12-24	2017-12-23	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-25	2017-12-23	7	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2017-12-26	2017-12-23	4	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2017-12-27	2017-12-27	1	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2017-12-28	2017-12-28	2	-4	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-12-29	2017-12-29	1	0	C	Ice Pellets	http://icons.wxug.com/i/c/k/sleet.gif
+WestLothian	2017-12-27	2017-12-26	1	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-12-28	2017-12-26	2	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-12-29	2017-12-26	3	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2017-12-27	2017-12-26	1	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2017-12-28	2017-12-26	1	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2017-12-29	2017-12-26	3	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+EastLothian	2017-12-27	2017-12-26	3	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2017-12-28	2017-12-26	3	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2017-12-29	2017-12-26	4	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-27	2017-12-26	3	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2017-12-28	2017-12-26	3	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2017-12-29	2017-12-26	4	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2017-12-30	2017-12-30	5	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2017-12-31	2017-12-31	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-01	2018-01-01	6	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2017-12-30	2017-12-29	5	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2017-12-31	2017-12-29	5	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-01-01	2017-12-29	4	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2017-12-30	2017-12-29	5	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2017-12-31	2017-12-29	4	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-01-01	2017-12-29	4	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2017-12-30	2017-12-29	7	4	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2017-12-31	2017-12-29	7	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-01-01	2017-12-29	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2017-12-30	2017-12-29	6	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2017-12-31	2017-12-29	6	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-01-01	2017-12-29	5	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-05	2018-06-18	4	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-02	2018-01-02	5	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-01-03	2018-06-18	8	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-04	2018-06-18	5	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-02	2018-01-01	4	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-01-03	2018-01-01	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-04	2018-01-01	5	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-01-02	2018-01-01	4	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-01-03	2018-01-01	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-04	2018-01-01	5	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-01-02	2018-01-01	5	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-01-03	2018-01-01	7	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-01-04	2018-01-01	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-02	2018-01-01	5	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-01-03	2018-01-01	7	2	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-01-04	2018-01-01	6	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-01-06	2018-06-18	3	-4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-05	2018-01-04	3	-1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-01-07	2018-01-07	3	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-01-06	2018-01-04	2	-7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-07	2018-01-04	1	-7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-01-05	2018-01-04	3	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-01-06	2018-01-04	2	-8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-01-07	2018-01-04	1	-7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-01-05	2018-01-04	5	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-01-06	2018-01-04	4	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-07	2018-01-04	3	-3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-01-05	2018-01-04	4	0	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-01-06	2018-01-04	3	-4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-01-07	2018-01-04	2	-4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-01-09	2018-01-09	3	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-08	2018-01-08	2	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-01-10	2018-01-10	3	0	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-01-08	2018-01-07	3	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-01-09	2018-01-07	4	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-01-10	2018-01-07	5	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-08	2018-01-07	3	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-01-09	2018-01-07	3	2	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-01-10	2018-01-07	4	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-01-08	2018-01-07	4	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-01-09	2018-01-07	5	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-01-10	2018-01-07	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-08	2018-01-07	5	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-01-09	2018-01-07	5	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-01-10	2018-01-07	6	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-11	2018-01-11	5	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-01-12	2018-01-12	7	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-01-13	2018-01-13	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-11	2018-01-10	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-12	2018-01-10	5	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-13	2018-01-10	4	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-11	2018-01-10	3	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-01-12	2018-01-10	5	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-01-13	2018-01-10	4	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-01-11	2018-01-10	4	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-01-12	2018-01-10	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-13	2018-01-10	6	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-01-11	2018-01-10	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-01-12	2018-01-10	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-01-13	2018-01-10	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-14	2018-01-14	6	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-01-15	2018-01-15	8	0	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2018-01-16	2018-01-16	2	-1	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-01-14	2018-01-13	7	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-15	2018-01-13	7	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-16	2018-01-13	2	-1	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-01-14	2018-01-13	6	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-01-15	2018-01-13	7	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-16	2018-01-13	2	-2	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2018-01-17	2018-01-17	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-01-18	2018-01-18	4	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-17	2018-01-16	3	0	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-01-18	2018-01-16	3	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-19	2018-01-16	3	-4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-01-17	2018-01-16	3	0	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-01-18	2018-01-16	3	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-01-19	2018-01-16	3	-3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-01-17	2018-01-16	4	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-18	2018-01-16	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-19	2018-01-16	4	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-01-17	2018-01-16	4	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Fife	2018-01-18	2018-01-16	4	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-01-19	2018-01-16	4	-2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-01-19	2018-01-19	3	-1	C	Chance of Snow	http://icons.wxug.com/i/c/k/chancesnow.gif
+Edinburgh	2018-01-20	2018-01-20	2	-4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-01-21	2018-01-21	1	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-22	2018-01-22	7	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-01-20	2018-01-19	2	-4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-01-21	2018-01-19	4	3	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-01-22	2018-01-19	6	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-01-20	2018-01-19	2	-4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-01-21	2018-01-19	4	3	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-01-22	2018-01-19	6	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-01-20	2018-01-19	3	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-01-25	2018-01-25	8	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-23	2018-01-23	10	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-01-24	2018-01-24	9	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-23	2018-01-22	9	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-01-24	2018-01-22	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-25	2018-01-22	6	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-23	2018-01-22	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-24	2018-01-22	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-25	2018-01-22	6	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-01-23	2018-01-22	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-24	2018-01-22	8	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-01-25	2018-01-22	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-23	2018-01-22	10	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-24	2018-01-22	7	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-25	2018-01-22	6	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-26	2018-01-26	5	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-27	2018-01-27	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-28	2018-01-28	11	4	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-01-26	2018-01-25	5	1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-01-27	2018-01-25	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-28	2018-01-25	10	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-26	2018-01-25	5	1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-01-27	2018-01-25	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-28	2018-01-25	10	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-01-26	2018-01-25	6	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-01-27	2018-01-25	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-01-28	2018-01-25	11	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-26	2018-01-25	6	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-01-27	2018-01-25	11	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-01-28	2018-01-25	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-29	2018-01-29	10	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-01-30	2018-01-30	6	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-01-31	2018-01-31	5	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-29	2018-01-28	6	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-01-30	2018-01-28	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-01-31	2018-01-28	4	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-01-29	2018-01-28	6	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-01-30	2018-01-28	6	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-01-31	2018-01-28	3	1	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+EastLothian	2018-01-29	2018-01-28	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-30	2018-01-28	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-01-31	2018-01-28	5	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-01-29	2018-01-28	7	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-01-30	2018-01-28	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-01-31	2018-01-28	5	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-01	2018-02-01	6	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-02	2018-02-02	6	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-02-03	2018-02-03	3	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-02-01	2018-01-31	6	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-02-02	2018-01-31	6	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-02-03	2018-01-31	5	-1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-02-01	2018-01-31	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-02-02	2018-01-31	5	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-02-03	2018-01-31	4	-1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-02-01	2018-01-31	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-02	2018-01-31	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-03	2018-01-31	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-02-01	2018-01-31	7	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-02-02	2018-01-31	6	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-02-03	2018-01-31	6	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-04	2018-02-04	5	-1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-02-06	2018-02-06	2	-4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-02-05	2018-02-05	2	-1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-02-04	2018-02-03	5	-2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-02-05	2018-02-03	3	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-02-06	2018-02-03	3	-4	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-02-04	2018-02-03	4	-3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-02-05	2018-02-03	3	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-02-06	2018-02-03	2	-4	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+EastLothian	2018-02-04	2018-02-03	5	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-05	2018-02-03	4	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-02-06	2018-02-03	4	0	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Fife	2018-02-04	2018-02-03	6	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-02-05	2018-02-03	4	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-02-06	2018-02-03	4	-2	C	Snow Showers	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2018-02-07	2018-02-07	1	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Edinburgh	2018-02-09	2018-02-09	5	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-02-08	2018-02-08	7	0	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-02-07	2018-02-06	4	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-02-08	2018-02-06	6	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-02-09	2018-02-06	4	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-02-07	2018-02-06	4	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-02-08	2018-02-06	6	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-02-09	2018-02-06	3	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-02-07	2018-02-06	4	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-08	2018-02-06	7	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-02-09	2018-02-06	4	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-02-07	2018-02-06	5	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-02-08	2018-02-06	7	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-02-09	2018-02-06	4	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-10	2018-02-10	8	0	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-02-12	2018-02-12	3	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-02-11	2018-02-11	2	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-02-10	2018-02-09	7	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-02-11	2018-02-09	2	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-02-12	2018-02-09	3	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-02-10	2018-02-09	7	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-02-11	2018-02-09	2	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-02-12	2018-02-09	3	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-10	2018-02-09	8	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-02-11	2018-02-09	3	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-12	2018-02-09	4	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-02-10	2018-02-09	7	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-02-11	2018-02-09	3	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-02-12	2018-02-09	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-13	2018-02-13	3	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-14	2018-02-13	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-02-15	2018-02-13	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-02-13	2018-02-12	3	-2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-02-14	2018-02-12	6	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+WestLothian	2018-02-15	2018-02-12	4	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-02-13	2018-02-12	3	-2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-02-14	2018-02-12	6	2	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-02-15	2018-02-12	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-02-13	2018-02-12	4	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-02-14	2018-02-12	7	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-02-15	2018-02-12	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-02-13	2018-02-12	4	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-02-14	2018-02-12	7	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-02-15	2018-02-12	6	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-02-16	2018-02-13	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-04-13	2018-04-13	6	4	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2018-04-14	2018-04-14	14	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-04-15	2018-04-15	16	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-13	2018-04-12	7	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-14	2018-04-12	14	5	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-04-15	2018-04-12	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-13	2018-04-12	7	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-04-14	2018-04-12	13	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-15	2018-04-12	14	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-13	2018-04-12	7	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-14	2018-04-12	13	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-04-15	2018-04-12	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-13	2018-04-12	7	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-14	2018-04-12	14	5	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-04-15	2018-04-12	14	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-04-18	2018-04-18	18	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-04-16	2018-04-16	15	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-04-17	2018-04-17	15	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-04-16	2018-04-15	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-17	2018-04-15	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-18	2018-04-15	17	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-04-16	2018-04-15	11	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-17	2018-04-15	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-18	2018-04-15	16	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-04-16	2018-04-15	12	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-04-17	2018-04-15	13	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-18	2018-04-15	16	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-04-16	2018-04-15	12	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-17	2018-04-15	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-18	2018-04-15	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-04-19	2018-04-19	21	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-04-20	2018-04-20	21	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-04-21	2018-04-21	21	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-04-19	2018-04-18	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-04-20	2018-04-18	13	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-04-21	2018-04-18	16	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-04-19	2018-04-18	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-04-20	2018-04-18	14	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-04-21	2018-04-18	16	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-04-19	2018-04-18	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-04-20	2018-04-18	13	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-04-21	2018-04-18	13	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-04-19	2018-04-18	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-04-20	2018-04-18	14	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-04-21	2018-04-18	14	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-04-23	2018-04-23	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-04-22	2018-04-22	14	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-04-24	2018-04-24	12	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-22	2018-04-21	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-23	2018-04-21	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-24	2018-04-21	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-22	2018-04-21	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-23	2018-04-21	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-24	2018-04-21	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-22	2018-04-21	12	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-23	2018-04-21	12	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-04-24	2018-04-21	11	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-22	2018-04-21	12	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-23	2018-04-21	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-24	2018-04-21	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-04-25	2018-04-25	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-04-26	2018-04-26	12	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-04-27	2018-04-27	11	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-25	2018-04-24	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-26	2018-04-24	10	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-04-27	2018-04-24	11	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-25	2018-04-24	10	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-26	2018-04-24	9	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-04-27	2018-04-24	9	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-25	2018-04-24	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-26	2018-04-24	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-27	2018-04-24	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-25	2018-04-24	11	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-26	2018-04-24	11	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-27	2018-04-24	10	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-04-28	2018-04-28	10	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-04-29	2018-04-29	10	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-04-30	2018-04-30	15	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-04-28	2018-04-27	10	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-04-29	2018-04-27	9	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-04-30	2018-04-27	11	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-04-28	2018-04-27	9	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-04-29	2018-04-27	8	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-04-30	2018-04-27	9	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-04-28	2018-04-27	9	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-04-29	2018-04-27	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-04-30	2018-04-27	8	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-04-28	2018-04-27	9	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-04-29	2018-04-27	9	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-04-30	2018-04-27	10	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-01	2018-05-01	15	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-05-02	2018-05-02	12	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-03	2018-05-03	12	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-05-01	2018-04-30	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-02	2018-04-30	10	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-03	2018-04-30	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-01	2018-04-30	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-02	2018-04-30	9	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-03	2018-04-30	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-01	2018-04-30	13	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-02	2018-04-30	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-03	2018-04-30	12	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-01	2018-04-30	13	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-02	2018-04-30	11	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-05-03	2018-04-30	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-04	2018-05-04	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-05	2018-05-05	21	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-06	2018-05-06	23	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-04	2018-05-03	17	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-05-05	2018-05-03	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-06	2018-05-03	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-04	2018-05-03	16	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-05-05	2018-05-03	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-06	2018-05-03	15	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-04	2018-05-03	17	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-05-05	2018-05-03	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-06	2018-05-03	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-04	2018-05-03	16	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-05-05	2018-05-03	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-06	2018-05-03	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-07	2018-05-07	22	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-08	2018-05-08	21	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-09	2018-05-09	13	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-07	2018-05-06	20	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-08	2018-05-06	16	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-09	2018-05-06	12	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-07	2018-05-06	21	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-08	2018-05-06	16	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-09	2018-05-06	12	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-07	2018-05-06	21	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-08	2018-05-06	17	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-09	2018-05-06	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-05-07	2018-05-06	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-08	2018-05-06	17	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-05-09	2018-05-06	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-05-10	2018-05-10	13	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-05-11	2018-05-11	15	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-05-12	2018-05-12	16	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-10	2018-05-09	12	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-11	2018-05-09	14	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-05-12	2018-05-09	14	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-10	2018-05-09	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-11	2018-05-09	14	5	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-05-12	2018-05-09	14	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-10	2018-05-09	13	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-11	2018-05-09	14	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-05-12	2018-05-09	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-05-10	2018-05-09	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-11	2018-05-09	14	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-05-12	2018-05-09	14	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-05-13	2018-05-13	18	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-16	2018-05-16	14	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-14	2018-05-14	18	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-15	2018-05-15	22	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-13	2018-05-12	14	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-14	2018-05-12	18	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-15	2018-05-12	18	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-13	2018-05-12	14	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-14	2018-05-12	18	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-15	2018-05-12	18	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-13	2018-05-12	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-14	2018-05-12	15	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-15	2018-05-12	17	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-05-13	2018-05-12	14	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-05-14	2018-05-12	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-15	2018-05-12	18	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-05-17	2018-05-17	16	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-18	2018-05-18	20	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-16	2018-05-15	14	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-05-17	2018-05-15	16	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-18	2018-05-15	17	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-05-16	2018-05-15	13	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-05-17	2018-05-15	15	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-18	2018-05-15	17	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-05-16	2018-05-15	12	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-17	2018-05-15	13	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-18	2018-05-15	16	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-19	2018-05-19	23	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-05-20	2018-05-20	20	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-05-21	2018-05-21	23	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-19	2018-05-18	18	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-05-20	2018-05-18	17	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-05-21	2018-05-18	19	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-19	2018-05-18	18	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-05-20	2018-05-18	18	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-21	2018-05-18	19	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-19	2018-05-18	19	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-20	2018-05-18	18	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-05-21	2018-05-18	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-19	2018-05-18	19	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-05-20	2018-05-18	18	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-05-21	2018-05-18	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-22	2018-05-22	12	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-05-23	2018-05-23	12	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-24	2018-05-24	12	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-05-22	2018-05-21	14	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-05-23	2018-05-21	17	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-24	2018-05-21	19	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-05-22	2018-05-21	13	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-05-23	2018-05-21	17	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-24	2018-05-21	19	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-22	2018-05-21	12	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-05-23	2018-05-21	14	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-24	2018-05-21	16	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-05-22	2018-05-21	14	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-05-23	2018-05-21	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-24	2018-05-21	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-05-25	2018-05-25	16	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-05-27	2018-05-27	11	7	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2018-05-26	2018-05-26	13	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-05-25	2018-05-24	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-05-26	2018-05-24	19	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-05-27	2018-05-24	19	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-05-25	2018-05-24	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-26	2018-05-24	18	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-27	2018-05-24	19	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-25	2018-05-24	14	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-26	2018-05-24	14	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-27	2018-05-24	14	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-05-25	2018-05-24	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-26	2018-05-24	17	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-05-27	2018-05-24	16	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-05-31	2018-05-31	18	11	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2018-05-28	2018-05-28	20	9	C	Fog	http://icons.wxug.com/i/c/k/fog.gif
+Edinburgh	2018-05-29	2018-05-29	15	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-05-30	2018-05-30	16	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-28	2018-05-27	22	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-05-29	2018-05-27	17	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-05-30	2018-05-27	19	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-05-28	2018-05-27	22	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-05-29	2018-05-27	17	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-05-30	2018-05-27	17	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-05-28	2018-05-27	17	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-05-29	2018-05-27	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-30	2018-05-27	14	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-28	2018-05-27	19	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-05-29	2018-05-27	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-05-30	2018-05-27	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-01	2018-06-01	21	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-02	2018-06-02	22	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-05-31	2018-05-30	21	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-01	2018-05-30	22	12	C	Thunderstorm	http://icons.wxug.com/i/c/k/tstorms.gif
+WestLothian	2018-06-02	2018-05-30	22	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-05-31	2018-05-30	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-01	2018-05-30	21	12	C	Thunderstorm	http://icons.wxug.com/i/c/k/tstorms.gif
+Midlothian	2018-06-02	2018-05-30	21	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-05-31	2018-05-30	17	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-06-01	2018-05-30	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-02	2018-05-30	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-05-31	2018-05-30	17	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-06-01	2018-05-30	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-06-02	2018-05-30	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-03	2018-06-03	16	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-06-04	2018-06-04	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-05	2018-06-05	16	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-06-03	2018-06-02	18	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-04	2018-06-02	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-05	2018-06-02	18	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-06-03	2018-06-02	17	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-04	2018-06-02	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-05	2018-06-02	16	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-06	2018-06-06	17	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-07	2018-06-07	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-09	2018-06-09	17	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-08	2018-06-08	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-06	2018-06-05	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-07	2018-06-05	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-08	2018-06-05	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-06	2018-06-05	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-07	2018-06-05	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-08	2018-06-05	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-10	2018-06-10	20	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-11	2018-06-11	15	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-06-09	2018-06-08	19	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-06-10	2018-06-08	21	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-11	2018-06-08	19	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-09	2018-06-08	18	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-06-10	2018-06-08	19	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-11	2018-06-08	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-09	2018-06-08	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-10	2018-06-08	17	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-06-11	2018-06-08	16	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-09	2018-06-08	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-10	2018-06-08	17	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-11	2018-06-08	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-12	2018-06-12	20	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-13	2018-06-13	17	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-14	2018-06-14	16	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-12	2018-06-11	19	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-13	2018-06-11	17	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-06-14	2018-06-11	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-12	2018-06-11	18	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-13	2018-06-11	17	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-06-14	2018-06-11	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-15	2018-06-15	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-16	2018-06-16	14	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-06-17	2018-06-16	17	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-06-15	2018-06-14	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-16	2018-06-14	15	8	C	Thunderstorm	http://icons.wxug.com/i/c/k/tstorms.gif
+WestLothian	2018-06-17	2018-06-14	17	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-06-15	2018-06-14	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-16	2018-06-14	14	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-06-17	2018-06-14	17	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-06-15	2018-06-14	15	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-06-16	2018-06-14	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-06-17	2018-06-14	18	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-15	2018-06-14	14	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-06-16	2018-06-14	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-06-17	2018-06-14	17	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-18	2018-06-18	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-19	2018-06-19	16	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-06-18	2018-06-17	14	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-06-19	2018-06-17	15	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-06-20	2018-06-17	15	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-06-18	2018-06-17	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-06-19	2018-06-17	14	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-06-20	2018-06-17	15	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-06-20	2018-06-20	16	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-06-21	2018-06-21	18	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-22	2018-06-22	20	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-23	2018-06-23	18	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-21	2018-06-20	16	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-22	2018-06-20	17	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-06-23	2018-06-20	17	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-06-21	2018-06-20	16	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-22	2018-06-20	17	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-06-23	2018-06-20	17	8	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-06-21	2018-06-20	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-22	2018-06-20	17	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-06-23	2018-06-20	17	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-21	2018-06-20	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-22	2018-06-20	18	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-06-23	2018-06-20	18	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-06-24	2018-06-24	23	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-25	2018-06-25	25	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-26	2018-06-26	16	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-24	2018-06-23	21	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-06-25	2018-06-23	23	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-26	2018-06-23	23	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-24	2018-06-23	21	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-06-25	2018-06-23	23	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-26	2018-06-23	23	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-24	2018-06-23	21	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-06-25	2018-06-23	22	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-06-26	2018-06-23	19	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-06-24	2018-06-23	21	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-06-25	2018-06-23	23	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-26	2018-06-23	21	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-27	2018-06-27	22	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-28	2018-06-28	28	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-06-29	2018-06-29	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-06-27	2018-06-26	26	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-06-28	2018-06-26	28	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-06-29	2018-06-26	21	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-27	2018-06-26	25	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-06-28	2018-06-26	27	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-29	2018-06-26	19	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-27	2018-06-26	25	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-06-28	2018-06-26	22	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-06-29	2018-06-26	17	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-06-27	2018-06-26	22	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-06-28	2018-06-26	26	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-06-29	2018-06-26	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-06-30	2018-06-30	21	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-07-01	2018-07-01	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-02	2018-07-02	16	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-06-30	2018-06-29	22	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-07-01	2018-06-29	23	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-02	2018-06-29	21	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-06-30	2018-06-29	22	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-07-01	2018-06-29	23	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-07-02	2018-06-29	21	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-06-30	2018-06-29	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-01	2018-06-29	19	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-07-02	2018-06-29	18	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-06-30	2018-06-29	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-01	2018-06-29	19	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-07-02	2018-06-29	18	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-04	2018-07-04	21	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-03	2018-07-03	21	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-07-05	2018-07-05	23	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-03	2018-07-02	22	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-07-04	2018-07-02	24	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-05	2018-07-02	22	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-07-03	2018-07-02	21	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-04	2018-07-02	22	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-05	2018-07-02	21	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-07-03	2018-07-02	18	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-04	2018-07-02	20	14	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-07-05	2018-07-02	20	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-07-03	2018-07-02	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-04	2018-07-02	21	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-07-05	2018-07-02	21	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-07-06	2018-07-06	24	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-07-07	2018-07-07	23	15	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-08	2018-07-08	25	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-07-06	2018-07-05	21	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-07	2018-07-05	23	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-08	2018-07-05	23	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-06	2018-07-05	21	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-07-07	2018-07-05	23	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-08	2018-07-05	23	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-06	2018-07-05	21	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-07	2018-07-05	22	15	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-08	2018-07-05	23	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-06	2018-07-05	21	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-07	2018-07-05	22	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-08	2018-07-05	23	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-09	2018-07-09	19	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-07-10	2018-07-10	20	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-07-11	2018-07-11	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-09	2018-07-08	22	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-10	2018-07-08	19	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-07-11	2018-07-08	18	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-07-09	2018-07-08	21	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-10	2018-07-08	17	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-07-11	2018-07-08	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-09	2018-07-08	19	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-10	2018-07-08	17	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-07-11	2018-07-08	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-09	2018-07-08	19	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-10	2018-07-08	17	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-07-11	2018-07-08	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-07-12	2018-07-12	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-07-13	2018-07-13	20	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-14	2018-07-14	25	15	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-12	2018-07-11	19	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-07-13	2018-07-11	21	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-07-14	2018-07-11	21	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-12	2018-07-11	18	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-13	2018-07-11	20	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-07-14	2018-07-11	21	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-07-12	2018-07-11	17	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-13	2018-07-11	19	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-14	2018-07-11	21	15	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-07-12	2018-07-11	17	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-07-13	2018-07-11	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-14	2018-07-11	22	14	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-07-15	2018-07-15	24	15	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-07-16	2018-07-16	21	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-07-17	2018-07-17	20	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-15	2018-07-14	22	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-07-16	2018-07-14	19	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-07-17	2018-07-14	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-15	2018-07-14	22	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-07-16	2018-07-14	19	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-17	2018-07-14	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-15	2018-07-14	23	16	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-16	2018-07-14	20	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-17	2018-07-14	19	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-15	2018-07-14	22	15	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-16	2018-07-14	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-17	2018-07-14	19	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-18	2018-07-18	20	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-19	2018-07-19	21	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-07-20	2018-07-20	17	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-18	2018-07-17	19	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-07-19	2018-07-17	20	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-07-20	2018-07-17	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-18	2018-07-17	19	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-19	2018-07-17	20	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-07-20	2018-07-17	17	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-18	2018-07-17	19	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-19	2018-07-17	21	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-07-20	2018-07-17	19	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-18	2018-07-17	19	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-07-19	2018-07-17	21	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-07-20	2018-07-17	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-07-21	2018-07-21	23	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-07-22	2018-07-22	21	16	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-23	2018-07-23	24	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-07-21	2018-07-20	20	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-07-22	2018-07-20	21	15	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-23	2018-07-20	19	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-21	2018-07-20	21	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-22	2018-07-20	21	15	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-23	2018-07-20	20	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-21	2018-07-20	21	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-07-22	2018-07-20	22	16	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-23	2018-07-20	22	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-21	2018-07-20	20	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-07-22	2018-07-20	21	16	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-23	2018-07-20	21	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-24	2018-07-24	20	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-07-25	2018-07-25	23	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-07-26	2018-07-26	27	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-24	2018-07-23	20	10	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-07-25	2018-07-23	20	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-07-26	2018-07-23	23	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-24	2018-07-23	20	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-25	2018-07-23	19	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-07-26	2018-07-23	23	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-24	2018-07-23	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-07-25	2018-07-23	19	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-26	2018-07-23	23	16	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-24	2018-07-23	20	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-25	2018-07-23	19	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-07-26	2018-07-23	23	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-07-27	2018-07-27	28	15	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-07-28	2018-07-28	20	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-07-29	2018-07-29	16	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-07-27	2018-07-26	25	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-07-28	2018-07-26	17	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-07-29	2018-07-26	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-27	2018-07-26	25	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-07-28	2018-07-26	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-29	2018-07-26	19	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-07-27	2018-07-26	24	16	C	Thunderstorm	http://icons.wxug.com/i/c/k/tstorms.gif
+EastLothian	2018-07-28	2018-07-26	19	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-07-29	2018-07-26	20	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-27	2018-07-26	22	15	C	Chance of a Thunderstorm	http://icons.wxug.com/i/c/k/chancetstorms.gif
+Fife	2018-07-28	2018-07-26	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-29	2018-07-26	19	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-07-30	2018-07-30	20	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-07-31	2018-07-31	18	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-01	2018-08-01	18	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-07-30	2018-07-29	17	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-07-31	2018-07-29	18	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-08-01	2018-07-29	19	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-07-30	2018-07-29	17	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-07-31	2018-07-29	18	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-08-01	2018-07-29	19	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-07-30	2018-07-29	19	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-07-31	2018-07-29	20	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-01	2018-07-29	21	14	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-07-30	2018-07-29	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-07-31	2018-07-29	19	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-01	2018-07-29	20	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-02	2018-08-02	24	16	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-08-03	2018-08-03	21	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-04	2018-08-04	21	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-02	2018-08-01	22	15	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-03	2018-08-01	22	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-04	2018-08-01	19	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-08-02	2018-08-01	22	15	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-08-03	2018-08-01	22	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-04	2018-08-01	19	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-08-02	2018-08-01	22	16	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-03	2018-08-01	22	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-04	2018-08-01	20	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-08-02	2018-08-01	22	16	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-08-03	2018-08-01	22	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-04	2018-08-01	20	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-08-05	2018-08-05	20	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-06	2018-08-06	22	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-07	2018-08-07	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-05	2018-08-04	19	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-08-06	2018-08-04	18	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-07	2018-08-04	17	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-08-05	2018-08-04	20	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-08-06	2018-08-04	18	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-08-07	2018-08-04	17	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-08-05	2018-08-04	20	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-08-06	2018-08-04	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-07	2018-08-04	18	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-08-05	2018-08-04	19	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-08-06	2018-08-04	18	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-08-07	2018-08-04	18	10	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-08-08	2018-08-08	17	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-08-09	2018-08-09	19	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-10	2018-08-10	17	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-08	2018-08-07	17	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-08-09	2018-08-07	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-10	2018-08-07	16	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-08	2018-08-07	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-09	2018-08-07	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-10	2018-08-07	16	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-08	2018-08-07	18	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-09	2018-08-07	18	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-10	2018-08-07	17	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-08-08	2018-08-07	18	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-09	2018-08-07	17	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-08-10	2018-08-07	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-11	2018-08-11	17	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-08-12	2018-08-12	15	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-13	2018-08-13	15	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-11	2018-08-10	18	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-08-12	2018-08-10	20	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-08-13	2018-08-10	19	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-11	2018-08-10	18	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-08-12	2018-08-10	20	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-08-13	2018-08-10	19	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-11	2018-08-10	18	14	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-08-12	2018-08-10	20	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-13	2018-08-10	20	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-08-11	2018-08-10	18	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-08-12	2018-08-10	19	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-08-13	2018-08-10	20	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-14	2018-08-14	18	15	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-15	2018-08-15	21	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-16	2018-08-16	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-14	2018-08-13	18	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-15	2018-08-13	18	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-08-16	2018-08-13	16	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-08-14	2018-08-13	18	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-08-15	2018-08-13	18	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-08-16	2018-08-13	16	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-14	2018-08-13	20	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-08-15	2018-08-13	19	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-08-16	2018-08-13	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-14	2018-08-13	19	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-08-15	2018-08-13	19	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-08-16	2018-08-13	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-17	2018-08-17	16	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-18	2018-08-18	17	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-08-19	2018-08-19	16	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-17	2018-08-16	16	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-08-18	2018-08-16	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-19	2018-08-16	18	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-08-17	2018-08-16	16	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-08-18	2018-08-16	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-08-19	2018-08-16	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-17	2018-08-16	18	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-18	2018-08-16	18	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-19	2018-08-16	18	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-08-17	2018-08-16	17	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-18	2018-08-16	17	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-19	2018-08-16	17	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-20	2018-08-20	17	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-08-21	2018-08-21	20	16	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-08-22	2018-08-22	18	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-08-20	2018-08-19	20	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-08-21	2018-08-19	21	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-22	2018-08-19	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-20	2018-08-19	19	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-08-21	2018-08-19	20	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-22	2018-08-19	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-20	2018-08-19	18	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-08-21	2018-08-19	22	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-22	2018-08-19	18	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-20	2018-08-19	18	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-08-21	2018-08-19	21	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-08-22	2018-08-19	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-23	2018-08-23	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-24	2018-08-24	15	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-08-25	2018-08-25	17	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-23	2018-08-22	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-24	2018-08-22	14	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-08-25	2018-08-22	16	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-08-23	2018-08-22	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-24	2018-08-22	13	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-08-25	2018-08-22	15	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-08-23	2018-08-22	16	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-24	2018-08-22	16	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-08-25	2018-08-22	16	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-08-23	2018-08-22	14	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-24	2018-08-22	15	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-08-25	2018-08-22	16	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-08-26	2018-08-26	12	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-27	2018-08-27	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-28	2018-08-28	17	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-08-26	2018-08-25	12	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-08-27	2018-08-25	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-28	2018-08-25	18	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-08-26	2018-08-25	12	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-08-27	2018-08-25	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-28	2018-08-25	18	10	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-08-26	2018-08-25	14	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-08-27	2018-08-25	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-28	2018-08-25	19	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-08-26	2018-08-25	13	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-08-27	2018-08-25	17	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-28	2018-08-25	19	11	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-09-01	2018-09-01	19	14	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-29	2018-08-29	18	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-08-30	2018-08-30	15	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-08-31	2018-08-31	18	11	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-08-29	2018-08-28	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-30	2018-08-28	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-08-31	2018-08-28	18	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-08-29	2018-08-28	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-30	2018-08-28	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-08-31	2018-08-28	17	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-08-29	2018-08-28	17	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-30	2018-08-28	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-08-31	2018-08-28	18	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-08-29	2018-08-28	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-30	2018-08-28	17	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-08-31	2018-08-28	18	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-09-02	2018-09-02	22	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-09-03	2018-09-03	16	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-01	2018-08-31	17	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-02	2018-08-31	20	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-03	2018-08-31	15	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-01	2018-08-31	17	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-09-02	2018-08-31	20	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-03	2018-08-31	14	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-01	2018-08-31	19	14	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-09-02	2018-08-31	21	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-03	2018-08-31	14	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-09-01	2018-08-31	18	13	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-09-02	2018-08-31	21	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-03	2018-08-31	15	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-04	2018-09-04	19	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-05	2018-09-05	17	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-06	2018-09-06	15	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-04	2018-09-03	16	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-05	2018-09-03	17	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-06	2018-09-03	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-04	2018-09-03	15	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-05	2018-09-03	17	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-06	2018-09-03	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-04	2018-09-03	14	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-09-05	2018-09-03	17	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-09-06	2018-09-03	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-04	2018-09-03	15	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-05	2018-09-03	17	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-09-06	2018-09-03	14	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-07	2018-09-07	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-08	2018-09-08	17	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-09	2018-09-09	17	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-09-07	2018-09-06	16	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-08	2018-09-06	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-09	2018-09-06	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-07	2018-09-06	15	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-08	2018-09-06	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-09	2018-09-06	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-07	2018-09-06	16	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-08	2018-09-06	16	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-09	2018-09-06	17	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-07	2018-09-06	16	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-08	2018-09-06	16	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-09-09	2018-09-06	16	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-10	2018-09-10	16	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-09-11	2018-09-11	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-12	2018-09-12	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-10	2018-09-09	14	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-11	2018-09-09	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-12	2018-09-09	14	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-10	2018-09-09	13	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-09-11	2018-09-09	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-12	2018-09-09	14	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-10	2018-09-09	15	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-09-11	2018-09-09	16	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-12	2018-09-09	16	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-09-10	2018-09-09	14	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-09-11	2018-09-09	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-12	2018-09-09	15	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-13	2018-09-13	15	10	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-09-14	2018-09-14	13	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-15	2018-09-15	15	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-09-13	2018-09-12	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-14	2018-09-12	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-15	2018-09-12	14	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-13	2018-09-12	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-14	2018-09-12	13	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-15	2018-09-12	14	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-13	2018-09-12	14	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-14	2018-09-12	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-15	2018-09-12	16	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-09-13	2018-09-12	14	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-14	2018-09-12	14	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-15	2018-09-12	15	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-16	2018-09-16	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-17	2018-09-17	18	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-18	2018-09-18	18	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-16	2018-09-15	15	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-09-17	2018-09-15	16	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-18	2018-09-15	17	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-09-16	2018-09-15	15	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-09-17	2018-09-15	16	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-18	2018-09-15	16	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-09-16	2018-09-15	16	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-17	2018-09-15	17	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-18	2018-09-15	18	13	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-16	2018-09-15	16	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-17	2018-09-15	16	14	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-18	2018-09-15	17	12	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-09-21	2018-09-21	13	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-09-19	2018-09-19	15	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-09-20	2018-09-20	13	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-09-19	2018-09-18	13	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-09-20	2018-09-18	12	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-09-21	2018-09-18	12	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-19	2018-09-18	13	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-09-20	2018-09-18	12	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-09-21	2018-09-18	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-19	2018-09-18	15	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-09-20	2018-09-18	13	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-09-21	2018-09-18	13	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-09-19	2018-09-18	15	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-09-20	2018-09-18	13	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-09-21	2018-09-18	13	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-23	2018-09-23	12	5	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-09-22	2018-09-22	14	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-09-24	2018-09-24	13	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-22	2018-09-21	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-23	2018-09-21	9	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-09-24	2018-09-21	13	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-09-22	2018-09-21	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-23	2018-09-21	8	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-09-24	2018-09-21	12	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-09-25	2018-09-25	15	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-27	2018-09-27	16	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-26	2018-09-26	17	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-25	2018-09-24	13	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-26	2018-09-24	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-09-27	2018-09-24	13	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-25	2018-09-24	13	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-26	2018-09-24	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-09-27	2018-09-24	13	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-09-28	2018-09-28	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-09-29	2018-09-29	12	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-09-30	2018-09-30	12	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-09-28	2018-09-27	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-29	2018-09-27	12	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-09-30	2018-09-27	12	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-28	2018-09-27	12	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-09-29	2018-09-27	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-09-30	2018-09-27	11	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-28	2018-09-27	13	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-09-29	2018-09-27	13	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-09-30	2018-09-27	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-28	2018-09-27	13	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-09-29	2018-09-27	12	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-09-30	2018-09-27	12	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-01	2018-10-01	11	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-02	2018-10-02	13	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-03	2018-10-03	15	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-01	2018-09-30	11	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-02	2018-09-30	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-03	2018-09-30	14	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-10-01	2018-09-30	11	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-02	2018-09-30	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-03	2018-09-30	14	11	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-10-01	2018-09-30	11	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-02	2018-09-30	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-03	2018-09-30	14	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-10-01	2018-09-30	11	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-10-02	2018-09-30	12	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-03	2018-09-30	14	12	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-10-04	2018-10-04	16	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-05	2018-10-05	13	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-06	2018-10-06	11	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-10-04	2018-10-03	14	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-05	2018-10-03	11	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-10-06	2018-10-03	11	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-04	2018-10-03	14	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-05	2018-10-03	10	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-10-06	2018-10-03	10	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-04	2018-10-03	16	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-05	2018-10-03	11	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-10-06	2018-10-03	11	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-04	2018-10-03	16	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-10-05	2018-10-03	12	5	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-10-06	2018-10-03	11	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-07	2018-10-07	12	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-08	2018-10-08	15	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-09	2018-10-09	15	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-07	2018-10-06	12	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-10-08	2018-10-06	14	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-09	2018-10-06	15	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-07	2018-10-06	11	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-08	2018-10-06	14	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-09	2018-10-06	14	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-07	2018-10-06	13	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-08	2018-10-06	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-09	2018-10-06	16	12	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-07	2018-10-06	12	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-10-08	2018-10-06	14	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-10-09	2018-10-06	16	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-10	2018-10-10	15	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-10-11	2018-10-11	17	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-10-12	2018-10-12	17	11	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-10-10	2018-10-09	21	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-10-11	2018-10-09	18	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-10-12	2018-10-09	17	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-10	2018-10-09	21	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-10-11	2018-10-09	18	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-10-12	2018-10-09	16	12	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-10	2018-10-09	20	13	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-10-11	2018-10-09	19	11	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-12	2018-10-09	18	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-10-10	2018-10-09	18	12	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-10-11	2018-10-09	18	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-10-12	2018-10-09	17	13	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-10-13	2018-10-13	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-14	2018-10-14	12	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-10-15	2018-10-15	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-13	2018-10-12	14	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-10-14	2018-10-12	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-15	2018-10-12	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-13	2018-10-12	13	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-10-14	2018-10-12	10	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-15	2018-10-12	12	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-13	2018-10-12	14	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-10-14	2018-10-12	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-15	2018-10-12	14	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-10-13	2018-10-12	13	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-10-14	2018-10-12	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-10-15	2018-10-12	13	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-10-16	2018-10-16	15	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-17	2018-10-17	12	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-10-18	2018-10-18	12	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-16	2018-10-15	13	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-10-17	2018-10-15	12	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-18	2018-10-15	12	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-10-19	2018-10-19	12	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-10-21	2018-10-21	16	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-20	2018-10-20	15	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-19	2018-10-18	12	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-10-20	2018-10-18	14	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-10-21	2018-10-18	13	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-19	2018-10-18	12	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-10-20	2018-10-18	15	12	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-10-21	2018-10-18	13	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-19	2018-10-18	13	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-20	2018-10-18	16	13	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-21	2018-10-18	15	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-19	2018-10-18	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-20	2018-10-18	15	13	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-10-21	2018-10-18	14	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-22	2018-10-22	11	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-23	2018-10-23	13	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-24	2018-10-24	12	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-10-22	2018-10-21	11	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-23	2018-10-21	13	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-24	2018-10-21	13	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-10-22	2018-10-21	11	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-23	2018-10-21	13	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-24	2018-10-21	13	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-10-22	2018-10-21	12	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-23	2018-10-21	14	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-24	2018-10-21	14	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-10-22	2018-10-21	12	10	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-23	2018-10-21	14	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-24	2018-10-21	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-25	2018-10-25	13	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-26	2018-10-26	9	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-10-27	2018-10-27	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-25	2018-10-24	12	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-26	2018-10-24	8	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-27	2018-10-24	7	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-10-25	2018-10-24	12	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-10-26	2018-10-24	7	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-27	2018-10-24	7	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-10-25	2018-10-24	13	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-10-26	2018-10-24	9	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-27	2018-10-24	8	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-25	2018-10-24	13	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-10-26	2018-10-24	9	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-10-27	2018-10-24	8	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-10-28	2018-10-28	8	-1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-29	2018-10-29	7	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-30	2018-10-30	8	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-10-28	2018-10-27	7	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-10-29	2018-10-27	7	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-10-30	2018-10-27	6	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-28	2018-10-27	7	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-29	2018-10-27	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-10-30	2018-10-27	6	1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-10-28	2018-10-27	8	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-29	2018-10-27	8	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-10-30	2018-10-27	8	4	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-10-28	2018-10-27	8	1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-10-29	2018-10-27	8	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-10-30	2018-10-27	8	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-10-31	2018-10-31	9	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-11-01	2018-11-01	7	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-11-02	2018-11-02	8	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-10-31	2018-10-30	9	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-11-01	2018-10-30	8	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-02	2018-10-30	8	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-10-31	2018-10-30	8	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-01	2018-10-30	7	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-02	2018-10-30	8	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-10-31	2018-10-30	10	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-01	2018-10-30	8	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-02	2018-10-30	9	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-10-31	2018-10-30	9	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-01	2018-10-30	8	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-02	2018-10-30	9	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-11-04	2018-11-04	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-03	2018-11-03	15	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-05	2018-11-05	11	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-03	2018-11-02	13	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-04	2018-11-02	12	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-11-05	2018-11-02	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-03	2018-11-02	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-04	2018-11-02	12	6	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-11-05	2018-11-02	10	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-11-03	2018-11-02	13	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-04	2018-11-02	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-05	2018-11-02	11	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-11-03	2018-11-02	13	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-04	2018-11-02	12	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-11-05	2018-11-02	11	8	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-11-07	2018-11-07	12	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-11-06	2018-11-06	12	10	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-08	2018-11-08	10	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-11-06	2018-11-05	13	9	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-11-07	2018-11-05	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-08	2018-11-05	9	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-06	2018-11-05	13	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-11-07	2018-11-05	12	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-08	2018-11-05	9	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-06	2018-11-05	13	11	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-07	2018-11-05	12	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-08	2018-11-05	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-06	2018-11-05	13	10	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-11-07	2018-11-05	12	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-08	2018-11-05	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-11-09	2018-11-09	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-10	2018-11-10	10	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-11-11	2018-11-11	8	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-09	2018-11-08	9	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-10	2018-11-08	9	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-11	2018-11-08	9	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-09	2018-11-08	9	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-11-10	2018-11-08	9	5	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-11	2018-11-08	9	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-09	2018-11-08	11	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-10	2018-11-08	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-11	2018-11-08	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-09	2018-11-08	10	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-11-10	2018-11-08	11	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-11	2018-11-08	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-12	2018-11-12	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-13	2018-11-13	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-14	2018-11-14	15	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-12	2018-11-11	11	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-11-13	2018-11-11	10	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-14	2018-11-11	14	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-11-12	2018-11-11	11	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-11-13	2018-11-11	9	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-14	2018-11-11	14	9	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-11-12	2018-11-11	12	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-13	2018-11-11	11	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-14	2018-11-11	14	9	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-12	2018-11-11	12	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-13	2018-11-11	11	9	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-14	2018-11-11	14	10	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-11-15	2018-11-15	15	9	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-11-16	2018-11-16	15	7	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-11-17	2018-11-17	10	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-11-15	2018-11-14	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-16	2018-11-14	14	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-17	2018-11-14	11	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-15	2018-11-14	12	8	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-11-16	2018-11-14	13	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-17	2018-11-14	10	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-15	2018-11-14	14	9	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-11-16	2018-11-14	14	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-17	2018-11-14	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-15	2018-11-14	13	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-16	2018-11-14	13	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-17	2018-11-14	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-11-18	2018-11-18	8	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-11-19	2018-11-19	7	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-20	2018-11-20	6	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-11-18	2018-11-17	10	4	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-11-19	2018-11-17	8	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-11-20	2018-11-17	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-18	2018-11-17	9	3	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-11-19	2018-11-17	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-11-20	2018-11-17	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-18	2018-11-17	11	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-11-19	2018-11-17	9	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-11-20	2018-11-17	8	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-11-18	2018-11-17	11	7	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-11-19	2018-11-17	9	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-11-20	2018-11-17	8	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-11-21	2018-11-21	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-11-22	2018-11-22	5	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-23	2018-11-23	7	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-11-21	2018-11-20	6	-1	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+WestLothian	2018-11-22	2018-11-20	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-23	2018-11-20	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-21	2018-11-20	6	0	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-22	2018-11-20	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-23	2018-11-20	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-21	2018-11-20	8	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-11-22	2018-11-20	8	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-23	2018-11-20	8	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-21	2018-11-20	8	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-11-22	2018-11-20	8	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-23	2018-11-20	8	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-24	2018-11-24	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-25	2018-11-25	5	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-26	2018-11-26	5	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-24	2018-11-23	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-25	2018-11-23	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-26	2018-11-23	6	1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-11-24	2018-11-23	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-25	2018-11-23	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-26	2018-11-23	6	1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-11-24	2018-11-23	8	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-25	2018-11-23	7	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-26	2018-11-23	7	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-11-24	2018-11-23	7	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-25	2018-11-23	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-26	2018-11-23	7	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-11-27	2018-11-27	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-11-28	2018-11-28	13	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-11-29	2018-11-29	10	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-27	2018-11-26	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-28	2018-11-26	12	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-29	2018-11-26	9	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-11-27	2018-11-26	5	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-28	2018-11-26	11	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-11-29	2018-11-26	8	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+EastLothian	2018-11-27	2018-11-26	7	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-11-28	2018-11-26	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-29	2018-11-26	10	8	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-11-27	2018-11-26	7	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-11-28	2018-11-26	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-29	2018-11-26	9	7	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-11-30	2018-11-30	8	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-02	2018-12-02	6	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-12-01	2018-12-01	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-11-30	2018-11-29	6	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-01	2018-11-29	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-02	2018-11-29	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-11-30	2018-11-29	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-01	2018-11-29	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-02	2018-11-29	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-11-30	2018-11-29	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-01	2018-11-29	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-02	2018-11-29	7	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-11-30	2018-11-29	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-01	2018-11-29	7	3	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Fife	2018-12-02	2018-11-29	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-03	2018-12-03	6	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-12-04	2018-12-04	5	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-05	2018-12-05	5	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-03	2018-12-02	5	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-12-04	2018-12-02	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-05	2018-12-02	4	1	C	Snow	http://icons.wxug.com/i/c/k/snow.gif
+Midlothian	2018-12-03	2018-12-02	5	-2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-12-04	2018-12-02	4	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-05	2018-12-02	4	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-03	2018-12-02	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-04	2018-12-02	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-05	2018-12-02	6	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-12-03	2018-12-02	6	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-12-04	2018-12-02	4	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-05	2018-12-02	4	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-12-06	2018-12-06	12	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-12-07	2018-12-07	11	6	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-12-08	2018-12-08	8	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-06	2018-12-05	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-07	2018-12-05	8	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-08	2018-12-05	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-06	2018-12-05	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-07	2018-12-05	8	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-08	2018-12-05	7	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-06	2018-12-05	12	8	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-07	2018-12-05	11	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-08	2018-12-05	8	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-06	2018-12-05	12	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-07	2018-12-05	9	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-08	2018-12-05	7	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-09	2018-12-09	6	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-12-10	2018-12-10	6	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-11	2018-12-11	7	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-12-09	2018-12-08	4	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-12-10	2018-12-08	4	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-12-11	2018-12-08	8	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-12-09	2018-12-08	4	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Midlothian	2018-12-10	2018-12-08	3	2	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-12-11	2018-12-08	8	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-12-09	2018-12-08	6	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+EastLothian	2018-12-10	2018-12-08	5	4	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+EastLothian	2018-12-11	2018-12-08	8	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-12-09	2018-12-08	6	0	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Fife	2018-12-10	2018-12-08	4	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Fife	2018-12-11	2018-12-08	8	5	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Edinburgh	2018-12-12	2018-12-12	7	2	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-12-13	2018-12-13	4	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+Edinburgh	2018-12-16	2018-12-16	7	2	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-14	2018-12-14	5	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-12	2018-12-11	7	1	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-12-13	2018-12-11	4	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-14	2018-12-11	3	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-12	2018-12-11	6	1	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-12-13	2018-12-11	4	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-14	2018-12-11	2	-1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-12	2018-12-11	7	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-13	2018-12-11	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-14	2018-12-11	4	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-12	2018-12-11	7	3	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Fife	2018-12-13	2018-12-11	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-14	2018-12-11	4	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-15	2018-12-15	3	2	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-12-17	2018-12-17	8	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-18	2018-12-18	11	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-16	2018-12-15	5	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-17	2018-12-15	7	6	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-12-18	2018-12-15	9	4	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Midlothian	2018-12-16	2018-12-15	5	1	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-19	2018-12-19	9	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-21	2018-12-21	8	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-12-20	2018-12-20	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-19	2018-12-18	7	3	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+WestLothian	2018-12-20	2018-12-18	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-21	2018-12-18	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-19	2018-12-18	6	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-20	2018-12-18	6	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-21	2018-12-18	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-19	2018-12-18	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-20	2018-12-18	7	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+EastLothian	2018-12-21	2018-12-18	7	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-19	2018-12-18	7	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-20	2018-12-18	7	3	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-21	2018-12-18	6	4	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-22	2018-12-22	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-23	2018-12-23	6	-2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-24	2018-12-24	2	-1	C	Clear	http://icons.wxug.com/i/c/k/clear.gif
+WestLothian	2018-12-22	2018-12-21	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-23	2018-12-21	6	-1	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-12-24	2018-12-21	3	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-22	2018-12-21	7	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-23	2018-12-21	6	-1	C	Mostly Cloudy	http://icons.wxug.com/i/c/k/mostlycloudy.gif
+Midlothian	2018-12-24	2018-12-21	3	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-22	2018-12-21	8	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-23	2018-12-21	6	1	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-24	2018-12-21	4	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-22	2018-12-21	8	3	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-23	2018-12-21	6	0	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-24	2018-12-21	3	2	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Edinburgh	2018-12-25	2018-12-25	9	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-12-26	2018-12-26	10	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-12-27	2018-12-27	10	6	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-25	2018-12-24	8	7	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-12-26	2018-12-24	9	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+WestLothian	2018-12-27	2018-12-24	8	4	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Edinburgh	2018-12-28	2018-12-28	10	5	C	Rain	http://icons.wxug.com/i/c/k/rain.gif
+Edinburgh	2018-12-29	2018-12-29	11	5	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Edinburgh	2018-12-30	2018-12-30	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-28	2018-12-27	9	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+WestLothian	2018-12-29	2018-12-27	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+WestLothian	2018-12-30	2018-12-27	9	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+Midlothian	2018-12-28	2018-12-27	9	4	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Midlothian	2018-12-29	2018-12-27	10	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Midlothian	2018-12-30	2018-12-27	10	6	C	Overcast	http://icons.wxug.com/i/c/k/cloudy.gif
+EastLothian	2018-12-28	2018-12-27	10	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-29	2018-12-27	11	8	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+EastLothian	2018-12-30	2018-12-27	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-28	2018-12-27	10	6	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
+Fife	2018-12-29	2018-12-27	11	7	C	Chance of Rain	http://icons.wxug.com/i/c/k/chancerain.gif
+Fife	2018-12-30	2018-12-27	11	7	C	Partly Cloudy	http://icons.wxug.com/i/c/k/partlycloudy.gif
