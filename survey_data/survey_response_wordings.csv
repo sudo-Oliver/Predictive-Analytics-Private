@@ -1,0 +1,1277 @@
+﻿uniquequestionid,response_wording
+access_cinemas_8_initial,1: Very difficult to access
+access_cinemas_8_initial,2
+access_cinemas_8_initial,3
+access_cinemas_8_initial,4
+access_cinemas_8_initial,5
+access_cinemas_8_initial,6
+access_cinemas_8_initial,7: Very easy to access
+access_countryside_8_initial,1: Very difficult to access
+access_countryside_8_initial,2
+access_countryside_8_initial,3
+access_countryside_8_initial,4
+access_countryside_8_initial,5
+access_countryside_8_initial,6
+access_countryside_8_initial,7: Very easy to access
+access_education_8_initial,1: Very difficult to access
+access_education_8_initial,2
+access_education_8_initial,3
+access_education_8_initial,4
+access_education_8_initial,5
+access_education_8_initial,6
+access_education_8_initial,7: Very easy to access
+access_groceryshops_8_initial,1: Very difficult to access
+access_groceryshops_8_initial,2
+access_groceryshops_8_initial,3
+access_groceryshops_8_initial,4
+access_groceryshops_8_initial,5
+access_groceryshops_8_initial,6
+access_groceryshops_8_initial,7: Very easy to access
+access_gyms_8_initial,1: Very difficult to access
+access_gyms_8_initial,2
+access_gyms_8_initial,3
+access_gyms_8_initial,4
+access_gyms_8_initial,5
+access_gyms_8_initial,6
+access_gyms_8_initial,7: Very easy to access
+access_libraries_8_initial,1: Very difficult to access
+access_libraries_8_initial,2
+access_libraries_8_initial,3
+access_libraries_8_initial,4
+access_libraries_8_initial,5
+access_libraries_8_initial,6
+access_libraries_8_initial,7: Very easy to access
+access_othershops_8_initial,1: Very difficult to access
+access_othershops_8_initial,2
+access_othershops_8_initial,3
+access_othershops_8_initial,4
+access_othershops_8_initial,5
+access_othershops_8_initial,6
+access_othershops_8_initial,7: Very easy to access
+access_parks_8_initial,1: Very difficult to access
+access_parks_8_initial,2
+access_parks_8_initial,3
+access_parks_8_initial,4
+access_parks_8_initial,5
+access_parks_8_initial,6
+access_parks_8_initial,7: Very easy to access
+access_restaurants_8_initial,1: Very difficult to access
+access_restaurants_8_initial,2
+access_restaurants_8_initial,3
+access_restaurants_8_initial,4
+access_restaurants_8_initial,5
+access_restaurants_8_initial,6
+access_restaurants_8_initial,7: Very easy to access
+access_work_8_initial,1: Very difficult to access
+access_work_8_initial,2
+access_work_8_initial,3
+access_work_8_initial,4
+access_work_8_initial,5
+access_work_8_initial,6
+access_work_8_initial,7: Very easy to access
+access_worship_8_initial,1: Very difficult to access
+access_worship_8_initial,2
+access_worship_8_initial,3
+access_worship_8_initial,4
+access_worship_8_initial,5
+access_worship_8_initial,6
+access_worship_8_initial,7: Very easy to access
+affordable_energy_4b_end,1: Strongly disagree
+affordable_energy_4b_end,2
+affordable_energy_4b_end,3
+affordable_energy_4b_end,4: Neither agree nor disagree
+affordable_energy_4b_end,5
+affordable_energy_4b_end,6
+affordable_energy_4b_end,7: Strongly agree
+ageband,0-4
+ageband,5-9
+ageband,10-14
+ageband,15-19
+ageband,20-24
+ageband,25-29
+ageband,30-34
+ageband,35-39
+ageband,40-44
+ageband,45-49
+ageband,50-54
+ageband,55-59
+ageband,60-64
+ageband,65-69
+ageband,70-74
+ageband,75-79
+ageband,80+
+ageband,Refused
+air_conditioning,0
+air_conditioning,1
+air_conditioning,2
+air_conditioning,3
+air_conditioning,4
+air_conditioning,5+
+aquarium_mid,Replaced
+aquarium_mid,Got or installed additional
+aquarium_mid,Fallen out of use
+aware_energyuse_7a_end,1: No idea
+aware_energyuse_7a_end,2
+aware_energyuse_7a_end,3
+aware_energyuse_7a_end,4: Some idea
+aware_energyuse_7a_end,5
+aware_energyuse_7a_end,6
+aware_energyuse_7a_end,7: A very good idea
+aware_energyuse_7a_initial,No idea: 1
+aware_energyuse_7a_initial,2
+aware_energyuse_7a_initial,3
+aware_energyuse_7a_initial,Some idea: 4
+aware_energyuse_7a_initial,5
+aware_energyuse_7a_initial,6
+aware_energyuse_7a_initial,A very good idea: 7
+aware_energyuse_7a_mid,No idea: 1
+aware_energyuse_7a_mid,2
+aware_energyuse_7a_mid,3
+aware_energyuse_7a_mid,Some idea: 4
+aware_energyuse_7a_mid,5
+aware_energyuse_7a_mid,6
+aware_energyuse_7a_mid,A very good idea: 7
+bath_mid,Replaced
+bath_mid,Got or installed additional
+bath_mid,Fallen out of use
+bathroom_sink_mid,Replaced
+bathroom_sink_mid,Got or installed additional
+bathroom_sink_mid,Fallen out of use
+boiler_mid,Replaced
+boiler_mid,Got or installed additional
+boiler_mid,Fallen out of use
+build_era,Before 1850
+build_era,1850-1899
+build_era,1900-1918
+build_era,1919-1930
+build_era,1931-1944
+build_era,1945-1964
+build_era,1965-1980
+build_era,1981-1990
+build_era,1991-1995
+build_era,1996-2001
+build_era,2002 or later
+buyappliances_brand_4b_initial,Not important at all: 1
+buyappliances_brand_4b_initial,2
+buyappliances_brand_4b_initial,3
+buyappliances_brand_4b_initial,Somewhat important: 4
+buyappliances_brand_4b_initial,5
+buyappliances_brand_4b_initial,6
+buyappliances_brand_4b_initial,Very important: 7
+buyappliances_energyeffic_4b_initial,Not important at all: 1
+buyappliances_energyeffic_4b_initial,2
+buyappliances_energyeffic_4b_initial,3
+buyappliances_energyeffic_4b_initial,Somewhat important: 4
+buyappliances_energyeffic_4b_initial,5
+buyappliances_energyeffic_4b_initial,6
+buyappliances_energyeffic_4b_initial,Very important: 7
+buyappliances_env_4b_initial,Not important at all: 1
+buyappliances_env_4b_initial,2
+buyappliances_env_4b_initial,3
+buyappliances_env_4b_initial,Somewhat important: 4
+buyappliances_env_4b_initial,5
+buyappliances_env_4b_initial,6
+buyappliances_env_4b_initial,Very important: 7
+buyappliances_features_4b_initial,Not important at all: 1
+buyappliances_features_4b_initial,2
+buyappliances_features_4b_initial,3
+buyappliances_features_4b_initial,Somewhat important: 4
+buyappliances_features_4b_initial,5
+buyappliances_features_4b_initial,6
+buyappliances_features_4b_initial,Very important: 7
+buyappliances_price_4b_initial,Not important at all: 1
+buyappliances_price_4b_initial,2
+buyappliances_price_4b_initial,3
+buyappliances_price_4b_initial,Somewhat important: 4
+buyappliances_price_4b_initial,5
+buyappliances_price_4b_initial,6
+buyappliances_price_4b_initial,Very important: 7
+buyappliances_reviews_4b_initial,Not important at all: 1
+buyappliances_reviews_4b_initial,2
+buyappliances_reviews_4b_initial,3
+buyappliances_reviews_4b_initial,Somewhat important: 4
+buyappliances_reviews_4b_initial,5
+buyappliances_reviews_4b_initial,6
+buyappliances_reviews_4b_initial,Very important: 7
+buyappliances_sociallyethical_4b_initial,Not important at all: 1
+buyappliances_sociallyethical_4b_initial,2
+buyappliances_sociallyethical_4b_initial,3
+buyappliances_sociallyethical_4b_initial,Somewhat important: 4
+buyappliances_sociallyethical_4b_initial,5
+buyappliances_sociallyethical_4b_initial,6
+buyappliances_sociallyethical_4b_initial,Very important: 7
+central_heating_thermostat_mid,Replaced
+central_heating_thermostat_mid,Got or installed additional
+central_heating_thermostat_mid,Fallen out of use
+comfortable_temp_1e_end,1: Strongly disagree
+comfortable_temp_1e_end,2
+comfortable_temp_1e_end,3
+comfortable_temp_1e_end,4: Neither agree nor disagree
+comfortable_temp_1e_end,5
+comfortable_temp_1e_end,6
+comfortable_temp_1e_end,7: Strongly agree
+computer,0
+computer,1
+computer,2
+computer,3
+computer,4
+computer,5+
+cooker_mid,Replaced
+cooker_mid,Got or installed additional
+cooker_mid,Fallen out of use
+damp_probs_1d_end,1: Strongly disagree
+damp_probs_1d_end,2
+damp_probs_1d_end,3
+damp_probs_1d_end,4: Neither agree nor disagree
+damp_probs_1d_end,5
+damp_probs_1d_end,6
+damp_probs_1d_end,7: Strongly agree
+dehumidifier,0
+dehumidifier,1
+dehumidifier,2
+dehumidifier,3
+dehumidifier,4
+dehumidifier,5+
+dehumidifier_mid,Replaced
+dehumidifier_mid,Got or installed additional
+dehumidifier_mid,Fallen out of use
+dishwasher_mid,Replaced
+dishwasher_mid,Got or installed additional
+dishwasher_mid,Fallen out of use
+education,GCSE grade D-G or CSE grade 2-5 or Standard Grade level 4-6
+education,O Level or GCSE equivalent (Grade A-C) or O Grade/CSE equivalent (Grade 1) or Standard Grade level 1-3
+education,ONC / National Level BTEC
+education,A-Levels or Highers
+education,Higher educational qualification below degree level
+education,"Degree level qualification (or equivalent), e.g. BSc, BA, MSc, MA"
+education,PhD
+education,Other qualifications
+education,No formal qualifications
+effectivepractices_7c_end,1: No idea
+effectivepractices_7c_end,2
+effectivepractices_7c_end,3
+effectivepractices_7c_end,4: Some idea
+effectivepractices_7c_end,5
+effectivepractices_7c_end,6
+effectivepractices_7c_end,7: A very good idea
+effectivepractices_7c_initial,No idea: 1
+effectivepractices_7c_initial,2
+effectivepractices_7c_initial,3
+effectivepractices_7c_initial,Some idea: 4
+effectivepractices_7c_initial,5
+effectivepractices_7c_initial,6
+effectivepractices_7c_initial,A very good idea: 7
+effectivepractices_7c_mid,No idea: 1
+effectivepractices_7c_mid,2
+effectivepractices_7c_mid,3
+effectivepractices_7c_mid,Some idea: 4
+effectivepractices_7c_mid,5
+effectivepractices_7c_mid,6
+effectivepractices_7c_mid,A very good idea: 7
+elec_heater_mid,Replaced
+elec_heater_mid,Got or installed additional
+elec_heater_mid,Fallen out of use
+elec_shower_mid,Replaced
+elec_shower_mid,Got or installed additional
+elec_shower_mid,Fallen out of use
+electric_blanket,0
+electric_blanket,1
+electric_blanket,2
+electric_blanket,3
+electric_blanket,4
+electric_blanket,5+
+electric_fan,0
+electric_fan,1
+electric_fan,2
+electric_fan,3
+electric_fan,4
+electric_fan,5+
+electric_heater,0
+electric_heater,1
+electric_heater,2
+electric_heater,3
+electric_heater,4
+electric_heater,5+
+entry_floor,Second basement level (level -2)
+entry_floor,Basement (level -1)
+entry_floor,Ground
+entry_floor,1st
+entry_floor,2nd
+entry_floor,3rd
+entry_floor,4th
+entry_floor,Other (please specify)
+extra_clothes_avoid_2g_end,1: Strongly disagree
+extra_clothes_avoid_2g_end,2
+extra_clothes_avoid_2g_end,3
+extra_clothes_avoid_2g_end,4: Neither agree nor disagree
+extra_clothes_avoid_2g_end,5
+extra_clothes_avoid_2g_end,6
+extra_clothes_avoid_2g_end,7: Strongly agree
+extra_clothes_choice_2g_end,1: Strongly disagree
+extra_clothes_choice_2g_end,2
+extra_clothes_choice_2g_end,3
+extra_clothes_choice_2g_end,4: Neither agree nor disagree
+extra_clothes_choice_2g_end,5
+extra_clothes_choice_2g_end,6
+extra_clothes_choice_2g_end,7: Strongly agree
+extra_clothes_need_2g_end,1: Strongly disagree
+extra_clothes_need_2g_end,2
+extra_clothes_need_2g_end,3
+extra_clothes_need_2g_end,4: Neither agree nor disagree
+extra_clothes_need_2g_end,5
+extra_clothes_need_2g_end,6
+extra_clothes_need_2g_end,7: Strongly agree
+finances_energy_1d_end,1: Strongly disagree
+finances_energy_1d_end,2
+finances_energy_1d_end,3
+finances_energy_1d_end,4: Neither agree nor disagree
+finances_energy_1d_end,5
+finances_energy_1d_end,6
+finances_energy_1d_end,7: Strongly agree
+finances_managing_1d_initial,Living comfortably
+finances_managing_1d_initial,Doing alright
+finances_managing_1d_initial,Just about getting by
+finances_managing_1d_initial,Finding it quite difficult
+finances_managing_1d_initial,Finding it very difficult
+finances_managing_1d_initial,Don't know
+finances_managing_1d_initial,Refused
+finances_managing_1d_mid,Living comfortably
+finances_managing_1d_mid,Doing alright
+finances_managing_1d_mid,Just about getting by
+finances_managing_1d_mid,Finding it quite difficult
+finances_managing_1d_mid,Finding it very difficult
+finances_managing_1d_mid,Don't know
+fridge_freezer_mid,Replaced
+fridge_freezer_mid,Got or installed additional
+fridge_freezer_mid,Fallen out of use
+gas_heater,0
+gas_heater,1
+gas_heater,2
+gas_heater,3
+gas_heater,4
+gas_heater,5+
+gas_shower_mid,Replaced
+gas_shower_mid,Got or installed additional
+gas_shower_mid,Fallen out of use
+gender,Female
+gender,Male
+hhdynam_energy_saving_6a_end,1: Strongly disagree
+hhdynam_energy_saving_6a_end,2
+hhdynam_energy_saving_6a_end,3
+hhdynam_energy_saving_6a_end,4: Neither agree nor disagree
+hhdynam_energy_saving_6a_end,5
+hhdynam_energy_saving_6a_end,6
+hhdynam_energy_saving_6a_end,7: Strongly agree
+highest_earner,Me (the interviewee)
+highest_earner,[Occupant's name]
+humidifier,0
+humidifier,1
+humidifier,2
+humidifier,3
+humidifier,4
+humidifier,5+
+importance_altruism_4b_end,1: Not important at all
+importance_altruism_4b_end,2
+importance_altruism_4b_end,3
+importance_altruism_4b_end,4: Somewhat important
+importance_altruism_4b_end,5
+importance_altruism_4b_end,6
+importance_altruism_4b_end,7: Very important
+importance_altruism_4b_initial,Not important at all: 1
+importance_altruism_4b_initial,2
+importance_altruism_4b_initial,3
+importance_altruism_4b_initial,Somewhat important: 4
+importance_altruism_4b_initial,5
+importance_altruism_4b_initial,6
+importance_altruism_4b_initial,Somewhat important: 7
+importance_altruism_4b_mid,Not important at all: 1
+importance_altruism_4b_mid,2
+importance_altruism_4b_mid,3
+importance_altruism_4b_mid,Somewhat important: 4
+importance_altruism_4b_mid,5
+importance_altruism_4b_mid,6
+importance_altruism_4b_mid,Very important: 7
+importance_clean_4b_end,1: Not important at all
+importance_clean_4b_end,2
+importance_clean_4b_end,3
+importance_clean_4b_end,4: Somewhat important
+importance_clean_4b_end,5
+importance_clean_4b_end,6
+importance_clean_4b_end,7: Very important
+importance_clean_4b_initial,Not important at all: 1
+importance_clean_4b_initial,2
+importance_clean_4b_initial,3
+importance_clean_4b_initial,Somewhat important: 4
+importance_clean_4b_initial,5
+importance_clean_4b_initial,6
+importance_clean_4b_initial,Somewhat important: 7
+importance_clean_4b_mid,Not important at all: 1
+importance_clean_4b_mid,2
+importance_clean_4b_mid,3
+importance_clean_4b_mid,Somewhat important: 4
+importance_clean_4b_mid,5
+importance_clean_4b_mid,6
+importance_clean_4b_mid,Very important: 7
+importance_comfort_4b_end,1: Not important at all
+importance_comfort_4b_end,2
+importance_comfort_4b_end,3
+importance_comfort_4b_end,4: Somewhat important
+importance_comfort_4b_end,5
+importance_comfort_4b_end,6
+importance_comfort_4b_end,7: Very important
+importance_comfort_4b_initial,Not important at all: 1
+importance_comfort_4b_initial,2
+importance_comfort_4b_initial,3
+importance_comfort_4b_initial,Somewhat important: 4
+importance_comfort_4b_initial,5
+importance_comfort_4b_initial,6
+importance_comfort_4b_initial,Somewhat important: 7
+importance_comfort_4b_mid,Not important at all: 1
+importance_comfort_4b_mid,2
+importance_comfort_4b_mid,3
+importance_comfort_4b_mid,Somewhat important: 4
+importance_comfort_4b_mid,5
+importance_comfort_4b_mid,6
+importance_comfort_4b_mid,Very important: 7
+importance_convenient_4b_end,1: Not important at all
+importance_convenient_4b_end,2
+importance_convenient_4b_end,3
+importance_convenient_4b_end,4: Somewhat important
+importance_convenient_4b_end,5
+importance_convenient_4b_end,6
+importance_convenient_4b_end,7: Very important
+importance_convenient_4b_initial,Not important at all: 1
+importance_convenient_4b_initial,2
+importance_convenient_4b_initial,3
+importance_convenient_4b_initial,Somewhat important: 4
+importance_convenient_4b_initial,5
+importance_convenient_4b_initial,6
+importance_convenient_4b_initial,Somewhat important: 7
+importance_convenient_4b_mid,Not important at all: 1
+importance_convenient_4b_mid,2
+importance_convenient_4b_mid,3
+importance_convenient_4b_mid,Somewhat important: 4
+importance_convenient_4b_mid,5
+importance_convenient_4b_mid,6
+importance_convenient_4b_mid,Very important: 7
+importance_env_4b_end,1: Not important at all
+importance_env_4b_end,2
+importance_env_4b_end,3
+importance_env_4b_end,4: Somewhat important
+importance_env_4b_end,5
+importance_env_4b_end,6
+importance_env_4b_end,7: Very important
+importance_env_4b_initial,Not important at all: 1
+importance_env_4b_initial,2
+importance_env_4b_initial,3
+importance_env_4b_initial,Somewhat important: 4
+importance_env_4b_initial,5
+importance_env_4b_initial,6
+importance_env_4b_initial,Somewhat important: 7
+importance_env_4b_mid,Not important at all: 1
+importance_env_4b_mid,2
+importance_env_4b_mid,3
+importance_env_4b_mid,Somewhat important: 4
+importance_env_4b_mid,5
+importance_env_4b_mid,6
+importance_env_4b_mid,Very important: 7
+importance_spend_4b_end,1: Not important at all
+importance_spend_4b_end,2
+importance_spend_4b_end,3
+importance_spend_4b_end,4: Somewhat important
+importance_spend_4b_end,5
+importance_spend_4b_end,6
+importance_spend_4b_end,7: Very important
+importance_spend_4b_initial,Not important at all: 1
+importance_spend_4b_initial,2
+importance_spend_4b_initial,3
+importance_spend_4b_initial,Somewhat important: 4
+importance_spend_4b_initial,5
+importance_spend_4b_initial,6
+importance_spend_4b_initial,Somewhat important: 7
+importance_spend_4b_mid,Not important at all: 1
+importance_spend_4b_mid,2
+importance_spend_4b_mid,3
+importance_spend_4b_mid,Somewhat important: 4
+importance_spend_4b_mid,5
+importance_spend_4b_mid,6
+importance_spend_4b_mid,Very important: 7
+income_band,"less than £10,800"
+income_band,"£10,800 to £13,499"
+income_band,"£13,500 to £16,199"
+income_band,"£16,200 to £19,799"
+income_band,"£19,800 to £23,399"
+income_band,"£23,400 to £26,999"
+income_band,"£27,000 to £32,399"
+income_band,"£32,400 to £37,799"
+income_band,"£37,800 to £43,199"
+income_band,"£43,200 to £48,599"
+income_band,"£48,600 to £53,999"
+income_band,"£54,000 to £65,999"
+income_band,"£66,000 to £77,999"
+income_band,"£78,000 to £89,999"
+income_band,"£90,000 or more"
+income_band_mid,"less than £10,800"
+income_band_mid,"£10,800 to £13,499"
+income_band_mid,"£13,500 to £16,199"
+income_band_mid,"£16,200 to £19,799"
+income_band_mid,"£19,800 to £23,399"
+income_band_mid,"£23,400 to £26,999"
+income_band_mid,"£27,000 to £32,399"
+income_band_mid,"£32,400 to £37,799"
+income_band_mid,"£37,800 to £43,199"
+income_band_mid,"£43,200 to £48,599"
+income_band_mid,"£48,600 to £53,999"
+income_band_mid,"£54,000 to £65,999"
+income_band_mid,"£66,000 to £77,999"
+income_band_mid,"£78,000 to £89,999"
+income_band_mid,"£90,000 or more"
+income_change_initial,Gone up
+income_change_initial,Stayed the same
+income_change_initial,Gone down
+incomeband_certainty_initial,1: Not at all certain
+incomeband_certainty_initial,2
+incomeband_certainty_initial,3
+incomeband_certainty_initial,4
+incomeband_certainty_initial,5
+incomeband_certainty_initial,6
+incomeband_certainty_initial,7: Very certain
+iron,0
+iron,1
+iron,2
+iron,3
+iron,4
+iron,5+
+kettle_mid,Replaced
+kettle_mid,Got or installed additional
+kettle_mid,Fallen out of use
+kitchen_sink_mid,Replaced
+kitchen_sink_mid,Got or installed additional
+kitchen_sink_mid,Fallen out of use
+laptop,0
+laptop,1
+laptop,2
+laptop,3
+laptop,4
+laptop,5+
+limin_intransition_4b_end,1: Strongly disagree
+limin_intransition_4b_end,2
+limin_intransition_4b_end,3
+limin_intransition_4b_end,4: Neither agree nor disagree
+limin_intransition_4b_end,5
+limin_intransition_4b_end,6
+limin_intransition_4b_end,7: Strongly agree
+limin_intransition_4b_initial,Strongly disagree: 1
+limin_intransition_4b_initial,2
+limin_intransition_4b_initial,3
+limin_intransition_4b_initial,Neither agree nor disagree: 4
+limin_intransition_4b_initial,5
+limin_intransition_4b_initial,6
+limin_intransition_4b_initial,Strongly agree: 7
+limin_intransition_4b_mid,Strongly disagree: 1
+limin_intransition_4b_mid,2
+limin_intransition_4b_mid,3
+limin_intransition_4b_mid,Neither agree nor disagree: 4
+limin_intransition_4b_mid,5
+limin_intransition_4b_mid,6
+limin_intransition_4b_mid,Strongly agree: 7
+limin_littlefreetime_4b_end,1: Strongly disagree
+limin_littlefreetime_4b_end,2
+limin_littlefreetime_4b_end,3
+limin_littlefreetime_4b_end,4: Neither agree nor disagree
+limin_littlefreetime_4b_end,5
+limin_littlefreetime_4b_end,6
+limin_littlefreetime_4b_end,7: Strongly agree
+limin_littlefreetime_4b_initial,Strongly disagree: 1
+limin_littlefreetime_4b_initial,2
+limin_littlefreetime_4b_initial,3
+limin_littlefreetime_4b_initial,Neither agree nor disagree: 4
+limin_littlefreetime_4b_initial,5
+limin_littlefreetime_4b_initial,6
+limin_littlefreetime_4b_initial,Strongly agree: 7
+limin_littlefreetime_4b_mid,Strongly disagree: 1
+limin_littlefreetime_4b_mid,2
+limin_littlefreetime_4b_mid,3
+limin_littlefreetime_4b_mid,Neither agree nor disagree: 4
+limin_littlefreetime_4b_mid,5
+limin_littlefreetime_4b_mid,6
+limin_littlefreetime_4b_mid,Strongly agree: 7
+limin_newactivities_4b_end,1: Strongly disagree
+limin_newactivities_4b_end,2
+limin_newactivities_4b_end,3
+limin_newactivities_4b_end,4: Neither agree nor disagree
+limin_newactivities_4b_end,5
+limin_newactivities_4b_end,6
+limin_newactivities_4b_end,7: Strongly agree
+limin_newactivities_4b_initial,Strongly disagree: 1
+limin_newactivities_4b_initial,2
+limin_newactivities_4b_initial,3
+limin_newactivities_4b_initial,Neither agree nor disagree: 4
+limin_newactivities_4b_initial,5
+limin_newactivities_4b_initial,6
+limin_newactivities_4b_initial,Strongly agree: 7
+limin_newactivities_4b_mid,Strongly disagree: 1
+limin_newactivities_4b_mid,2
+limin_newactivities_4b_mid,3
+limin_newactivities_4b_mid,Neither agree nor disagree: 4
+limin_newactivities_4b_mid,5
+limin_newactivities_4b_mid,6
+limin_newactivities_4b_mid,Strongly agree: 7
+media_entertainment,0
+media_entertainment,1
+media_entertainment,2
+media_entertainment,3
+media_entertainment,4
+media_entertainment,5+
+microwave_mid,Replaced
+microwave_mid,Got or installed additional
+microwave_mid,Fallen out of use
+new_build_year,2002
+new_build_year,2003
+new_build_year,2004
+new_build_year,2005
+new_build_year,2006
+new_build_year,2007
+new_build_year,2008
+new_build_year,2009
+new_build_year,2010
+new_build_year,2011
+new_build_year,2012
+new_build_year,2013
+new_build_year,2014
+new_build_year,2015
+new_build_year,2016
+new_build_year,2017
+non_smart_phone,0
+non_smart_phone,1
+non_smart_phone,2
+non_smart_phone,3
+non_smart_phone,4
+non_smart_phone,5+
+occupied_days,0
+occupied_days,1
+occupied_days,2
+occupied_days,3
+occupied_days,4
+occupied_days,5
+occupied_days,6
+occupied_days,7
+occupied_days_mid,0
+occupied_days_mid,1
+occupied_days_mid,2
+occupied_days_mid,3
+occupied_days_mid,4
+occupied_days_mid,5
+occupied_days_mid,6
+occupied_days_mid,7
+occupied_nights,0
+occupied_nights,1
+occupied_nights,2
+occupied_nights,3
+occupied_nights,4
+occupied_nights,5
+occupied_nights,6
+occupied_nights,7
+occupied_nights_mid,0
+occupied_nights_mid,1
+occupied_nights_mid,2
+occupied_nights_mid,3
+occupied_nights_mid,4
+occupied_nights_mid,5
+occupied_nights_mid,6
+occupied_nights_mid,7
+other_high_power_1,0
+other_high_power_1,1
+other_high_power_1,2
+other_high_power_1,3
+other_high_power_1,4
+other_high_power_1,5+
+other_high_power_2,0
+other_high_power_2,1
+other_high_power_2,2
+other_high_power_2,3
+other_high_power_2,4
+other_high_power_2,5+
+other_high_power_3,0
+other_high_power_3,1
+other_high_power_3,2
+other_high_power_3,3
+other_high_power_3,4
+other_high_power_3,5+
+other_high_power_4,0
+other_high_power_4,1
+other_high_power_4,2
+other_high_power_4,3
+other_high_power_4,4
+other_high_power_4,5+
+outcome_norm_env_1c_end,I'm happy with what I do at the moment to help the environment
+outcome_norm_env_1c_end,I'd like to do a bit more to help the environment
+outcome_norm_env_1c_end,I'd like to do a lot more to help the environment
+outcome_norm_env_1c_initial,I'm happy with what I do at the moment to help the environment
+outcome_norm_env_1c_initial,I'd like to do a bit more to help the environment
+outcome_norm_env_1c_initial,I'd like to do a lot more to help the environment
+outcome_norm_env_1c_mid,I'm happy with what I do at the moment to help the environment
+outcome_norm_env_1c_mid,I'd like to do a bit more to help the environment
+outcome_norm_env_1c_mid,I'd like to do a lot more to help the environment
+outdoor_drying,Yes
+outdoor_drying,No
+outdoor_drying,Don't know
+outdoor_elec_space_heater,0
+outdoor_elec_space_heater,1
+outdoor_elec_space_heater,2
+outdoor_elec_space_heater,3
+outdoor_elec_space_heater,4
+outdoor_elec_space_heater,5+
+outdoor_gas_space_heater,0
+outdoor_gas_space_heater,1
+outdoor_gas_space_heater,2
+outdoor_gas_space_heater,3
+outdoor_gas_space_heater,4
+outdoor_gas_space_heater,5+
+outdoor_hot_tub,0
+outdoor_hot_tub,1
+outdoor_hot_tub,2
+outdoor_hot_tub,3
+outdoor_hot_tub,4
+outdoor_hot_tub,5+
+outdoor_light,0
+outdoor_light,1
+outdoor_light,2
+outdoor_light,3
+outdoor_light,4
+outdoor_light,5+
+outdoor_space,Yes - private
+outdoor_space,Yes - shared with neighbours
+outdoor_space,No
+outdoor_water_feature,0
+outdoor_water_feature,1
+outdoor_water_feature,2
+outdoor_water_feature,3
+outdoor_water_feature,4
+outdoor_water_feature,5+
+overall_satisfaction_1b_end,1: Strongly disagree
+overall_satisfaction_1b_end,2
+overall_satisfaction_1b_end,3
+overall_satisfaction_1b_end,4: Neither agree nor disagree
+overall_satisfaction_1b_end,5
+overall_satisfaction_1b_end,6
+overall_satisfaction_1b_end,7: Strongly agree
+overall_satisfaction_1b_initial,Strongly disagree: 1
+overall_satisfaction_1b_initial,2
+overall_satisfaction_1b_initial,3
+overall_satisfaction_1b_initial,Neither agree nor disagree: 4
+overall_satisfaction_1b_initial,5
+overall_satisfaction_1b_initial,6
+overall_satisfaction_1b_initial,Strongly agree: 7
+overall_satisfaction_1b_mid,Strongly disagree: 1
+overall_satisfaction_1b_mid,2
+overall_satisfaction_1b_mid,3
+overall_satisfaction_1b_mid,Neither agree nor disagree: 4
+overall_satisfaction_1b_mid,5
+overall_satisfaction_1b_mid,6
+overall_satisfaction_1b_mid,Strongly agree: 7
+payless_elec_4b_end,1: Strongly disagree
+payless_elec_4b_end,2
+payless_elec_4b_end,3
+payless_elec_4b_end,4: Neither agree nor disagree
+payless_elec_4b_end,5
+payless_elec_4b_end,6
+payless_elec_4b_end,7: Strongly agree
+payless_gas_4b_end,1: Strongly disagree
+payless_gas_4b_end,2
+payless_gas_4b_end,3
+payless_gas_4b_end,4: Neither agree nor disagree
+payless_gas_4b_end,5
+payless_gas_4b_end,6
+payless_gas_4b_end,7: Strongly agree
+paymore_renewables_4b_end,1: Strongly disagree
+paymore_renewables_4b_end,2
+paymore_renewables_4b_end,3
+paymore_renewables_4b_end,4: Neither agree nor disagree
+paymore_renewables_4b_end,5
+paymore_renewables_4b_end,6
+paymore_renewables_4b_end,7: Strongly agree
+relationtoprimary,"Husband, wife or partner"
+relationtoprimary,"Son or daughter, inc. adopted, step, foster and in-law"
+relationtoprimary,"Parent, inc. step, foster and in-law"
+relationtoprimary,"Brother or sister, inc. adopted, step, foster and in-law"
+relationtoprimary,"Grand-child, inc. adopted, step, foster and in-law"
+relationtoprimary,"Grand-parent, inc. adopted, step, foster and in-law"
+relationtoprimary,Other relative
+relationtoprimary,Non-relative
+relationtoprimary,Lodger
+relationtoprimary,Other unrelated
+satis_energy_use_1b_end,I feel I am now doing everything practical to use as little energy as possible at home
+satis_energy_use_1b_end,I think there is a bit more I could practically do to use less energy at home
+satis_energy_use_1b_end,I think there is a lot more  I could practically do to use less energy at home
+saveenergy_4b_end,1: Not important at all
+saveenergy_4b_end,2
+saveenergy_4b_end,3
+saveenergy_4b_end,4: Somewhat important
+saveenergy_4b_end,5
+saveenergy_4b_end,6
+saveenergy_4b_end,7: Very important
+saveenergy_4b_initial,Not important at all: 1
+saveenergy_4b_initial,2
+saveenergy_4b_initial,3
+saveenergy_4b_initial,Somewhat important: 4
+saveenergy_4b_initial,5
+saveenergy_4b_initial,6
+saveenergy_4b_initial,Very important: 7
+saveenergy_4b_mid,Not important at all: 1
+saveenergy_4b_mid,2
+saveenergy_4b_mid,3
+saveenergy_4b_mid,Somewhat important: 4
+saveenergy_4b_mid,5
+saveenergy_4b_mid,6
+saveenergy_4b_mid,Very important: 7
+schwartz_achievement_4a_end,Not at all like me
+schwartz_achievement_4a_end,Not like me
+schwartz_achievement_4a_end,A little like me
+schwartz_achievement_4a_end,Somewhat like me
+schwartz_achievement_4a_end,Like me
+schwartz_achievement_4a_end,Very much like me
+schwartz_achievement_4a_initial,Not at all like me: 1
+schwartz_achievement_4a_initial,Not like me: 2
+schwartz_achievement_4a_initial,A little like me: 3
+schwartz_achievement_4a_initial,Somewhat like me: 4
+schwartz_achievement_4a_initial,Like me: 5
+schwartz_achievement_4a_initial,Very much like me: 6
+schwartz_achievement_4a_mid,Not at all like me: 1
+schwartz_achievement_4a_mid,Not like me: 2
+schwartz_achievement_4a_mid,A little like me: 3
+schwartz_achievement_4a_mid,Somewhat like me: 4
+schwartz_achievement_4a_mid,Like me: 5
+schwartz_achievement_4a_mid,Very much like me: 6
+schwartz_benevolence_nearby_4a_end,Not at all like me
+schwartz_benevolence_nearby_4a_end,Not like me
+schwartz_benevolence_nearby_4a_end,A little like me
+schwartz_benevolence_nearby_4a_end,Somewhat like me
+schwartz_benevolence_nearby_4a_end,Like me
+schwartz_benevolence_nearby_4a_end,Very much like me
+schwartz_benevolence_nearby_4a_initial,Not at all like me: 1
+schwartz_benevolence_nearby_4a_initial,Not like me: 2
+schwartz_benevolence_nearby_4a_initial,A little like me: 3
+schwartz_benevolence_nearby_4a_initial,Somewhat like me: 4
+schwartz_benevolence_nearby_4a_initial,Like me: 5
+schwartz_benevolence_nearby_4a_initial,Very much like me: 6
+schwartz_benevolence_nearby_4a_mid,Not at all like me: 1
+schwartz_benevolence_nearby_4a_mid,Not like me: 2
+schwartz_benevolence_nearby_4a_mid,A little like me: 3
+schwartz_benevolence_nearby_4a_mid,Somewhat like me: 4
+schwartz_benevolence_nearby_4a_mid,Like me: 5
+schwartz_benevolence_nearby_4a_mid,Very much like me: 6
+schwartz_benevolence_soc_4a_end,Not at all like me
+schwartz_benevolence_soc_4a_end,Not like me
+schwartz_benevolence_soc_4a_end,A little like me
+schwartz_benevolence_soc_4a_end,Somewhat like me
+schwartz_benevolence_soc_4a_end,Like me
+schwartz_benevolence_soc_4a_end,Very much like me
+schwartz_benevolence_soc_4a_initial,Not at all like me: 1
+schwartz_benevolence_soc_4a_initial,Not like me: 2
+schwartz_benevolence_soc_4a_initial,A little like me: 3
+schwartz_benevolence_soc_4a_initial,Somewhat like me: 4
+schwartz_benevolence_soc_4a_initial,Like me: 5
+schwartz_benevolence_soc_4a_initial,Very much like me: 6
+schwartz_benevolence_soc_4a_mid,Not at all like me: 1
+schwartz_benevolence_soc_4a_mid,Not like me: 2
+schwartz_benevolence_soc_4a_mid,A little like me: 3
+schwartz_benevolence_soc_4a_mid,Somewhat like me: 4
+schwartz_benevolence_soc_4a_mid,Like me: 5
+schwartz_benevolence_soc_4a_mid,Very much like me: 6
+schwartz_conformity_4a_end,Not at all like me
+schwartz_conformity_4a_end,Not like me
+schwartz_conformity_4a_end,A little like me
+schwartz_conformity_4a_end,Somewhat like me
+schwartz_conformity_4a_end,Like me
+schwartz_conformity_4a_end,Very much like me
+schwartz_conformity_4a_initial,Not at all like me: 1
+schwartz_conformity_4a_initial,Not like me: 2
+schwartz_conformity_4a_initial,A little like me: 3
+schwartz_conformity_4a_initial,Somewhat like me: 4
+schwartz_conformity_4a_initial,Like me: 5
+schwartz_conformity_4a_initial,Very much like me: 6
+schwartz_conformity_4a_mid,Not at all like me: 1
+schwartz_conformity_4a_mid,Not like me: 2
+schwartz_conformity_4a_mid,A little like me: 3
+schwartz_conformity_4a_mid,Somewhat like me: 4
+schwartz_conformity_4a_mid,Like me: 5
+schwartz_conformity_4a_mid,Very much like me: 6
+schwartz_hedonism_4a_end,Not at all like me
+schwartz_hedonism_4a_end,Not like me
+schwartz_hedonism_4a_end,A little like me
+schwartz_hedonism_4a_end,Somewhat like me
+schwartz_hedonism_4a_end,Like me
+schwartz_hedonism_4a_end,Very much like me
+schwartz_hedonism_4a_initial,Not at all like me: 1
+schwartz_hedonism_4a_initial,Not like me: 2
+schwartz_hedonism_4a_initial,A little like me: 3
+schwartz_hedonism_4a_initial,Somewhat like me: 4
+schwartz_hedonism_4a_initial,Like me: 5
+schwartz_hedonism_4a_initial,Very much like me: 6
+schwartz_hedonism_4a_mid,Not at all like me: 1
+schwartz_hedonism_4a_mid,Not like me: 2
+schwartz_hedonism_4a_mid,A little like me: 3
+schwartz_hedonism_4a_mid,Somewhat like me: 4
+schwartz_hedonism_4a_mid,Like me: 5
+schwartz_hedonism_4a_mid,Very much like me: 6
+schwartz_power_4a_end,Not at all like me
+schwartz_power_4a_end,Not like me
+schwartz_power_4a_end,A little like me
+schwartz_power_4a_end,Somewhat like me
+schwartz_power_4a_end,Like me
+schwartz_power_4a_end,Very much like me
+schwartz_power_4a_initial,Not at all like me: 1
+schwartz_power_4a_initial,Not like me: 2
+schwartz_power_4a_initial,A little like me: 3
+schwartz_power_4a_initial,Somewhat like me: 4
+schwartz_power_4a_initial,Like me: 5
+schwartz_power_4a_initial,Very much like me: 6
+schwartz_power_4a_mid,Not at all like me: 1
+schwartz_power_4a_mid,Not like me: 2
+schwartz_power_4a_mid,A little like me: 3
+schwartz_power_4a_mid,Somewhat like me: 4
+schwartz_power_4a_mid,Like me: 5
+schwartz_power_4a_mid,Very much like me: 6
+schwartz_security_4a_end,Not at all like me
+schwartz_security_4a_end,Not like me
+schwartz_security_4a_end,A little like me
+schwartz_security_4a_end,Somewhat like me
+schwartz_security_4a_end,Like me
+schwartz_security_4a_end,Very much like me
+schwartz_security_4a_initial,Not at all like me: 1
+schwartz_security_4a_initial,Not like me: 2
+schwartz_security_4a_initial,A little like me: 3
+schwartz_security_4a_initial,Somewhat like me: 4
+schwartz_security_4a_initial,Like me: 5
+schwartz_security_4a_initial,Very much like me: 6
+schwartz_security_4a_mid,Not at all like me: 1
+schwartz_security_4a_mid,Not like me: 2
+schwartz_security_4a_mid,A little like me: 3
+schwartz_security_4a_mid,Somewhat like me: 4
+schwartz_security_4a_mid,Like me: 5
+schwartz_security_4a_mid,Very much like me: 6
+schwartz_self_direction_4a_end,Not at all like me
+schwartz_self_direction_4a_end,Not like me
+schwartz_self_direction_4a_end,A little like me
+schwartz_self_direction_4a_end,Somewhat like me
+schwartz_self_direction_4a_end,Like me
+schwartz_self_direction_4a_end,Very much like me
+schwartz_self_direction_4a_initial,Not at all like me: 1
+schwartz_self_direction_4a_initial,Not like me: 2
+schwartz_self_direction_4a_initial,A little like me: 3
+schwartz_self_direction_4a_initial,Somewhat like me: 4
+schwartz_self_direction_4a_initial,Like me: 5
+schwartz_self_direction_4a_initial,Very much like me: 6
+schwartz_self_direction_4a_mid,Not at all like me: 1
+schwartz_self_direction_4a_mid,Not like me: 2
+schwartz_self_direction_4a_mid,A little like me: 3
+schwartz_self_direction_4a_mid,Somewhat like me: 4
+schwartz_self_direction_4a_mid,Like me: 5
+schwartz_self_direction_4a_mid,Very much like me: 6
+schwartz_stimulation_4a_end,Not at all like me
+schwartz_stimulation_4a_end,Not like me
+schwartz_stimulation_4a_end,A little like me
+schwartz_stimulation_4a_end,Somewhat like me
+schwartz_stimulation_4a_end,Like me
+schwartz_stimulation_4a_end,Very much like me
+schwartz_stimulation_4a_initial,Not at all like me: 1
+schwartz_stimulation_4a_initial,Not like me: 2
+schwartz_stimulation_4a_initial,A little like me: 3
+schwartz_stimulation_4a_initial,Somewhat like me: 4
+schwartz_stimulation_4a_initial,Like me: 5
+schwartz_stimulation_4a_initial,Very much like me: 6
+schwartz_stimulation_4a_mid,Not at all like me: 1
+schwartz_stimulation_4a_mid,Not like me: 2
+schwartz_stimulation_4a_mid,A little like me: 3
+schwartz_stimulation_4a_mid,Somewhat like me: 4
+schwartz_stimulation_4a_mid,Like me: 5
+schwartz_stimulation_4a_mid,Very much like me: 6
+schwartz_tradition_4a_end,Not at all like me
+schwartz_tradition_4a_end,Not like me
+schwartz_tradition_4a_end,A little like me
+schwartz_tradition_4a_end,Somewhat like me
+schwartz_tradition_4a_end,Like me
+schwartz_tradition_4a_end,Very much like me
+schwartz_tradition_4a_initial,Not at all like me: 1
+schwartz_tradition_4a_initial,Not like me: 2
+schwartz_tradition_4a_initial,A little like me: 3
+schwartz_tradition_4a_initial,Somewhat like me: 4
+schwartz_tradition_4a_initial,Like me: 5
+schwartz_tradition_4a_initial,Very much like me: 6
+schwartz_tradition_4a_mid,Not at all like me: 1
+schwartz_tradition_4a_mid,Not like me: 2
+schwartz_tradition_4a_mid,A little like me: 3
+schwartz_tradition_4a_mid,Somewhat like me: 4
+schwartz_tradition_4a_mid,Like me: 5
+schwartz_tradition_4a_mid,Very much like me: 6
+schwartz_universalism_4a_end,Not at all like me
+schwartz_universalism_4a_end,Not like me
+schwartz_universalism_4a_end,A little like me
+schwartz_universalism_4a_end,Somewhat like me
+schwartz_universalism_4a_end,Like me
+schwartz_universalism_4a_end,Very much like me
+schwartz_universalism_4a_initial,Not at all like me: 1
+schwartz_universalism_4a_initial,Not like me: 2
+schwartz_universalism_4a_initial,A little like me: 3
+schwartz_universalism_4a_initial,Somewhat like me: 4
+schwartz_universalism_4a_initial,Like me: 5
+schwartz_universalism_4a_initial,Very much like me: 6
+schwartz_universalism_4a_mid,Not at all like me: 1
+schwartz_universalism_4a_mid,Not like me: 2
+schwartz_universalism_4a_mid,A little like me: 3
+schwartz_universalism_4a_mid,Somewhat like me: 4
+schwartz_universalism_4a_mid,Like me: 5
+schwartz_universalism_4a_mid,Very much like me: 6
+signedup,Yes
+signedup,"No. If no, who agreed? [Enter name and relationship to respondent]"
+smart_automation,Own and use
+smart_automation,Own but don't use
+smart_automation,Don't own
+smart_automation_mid,Own and use
+smart_automation_mid,Own but don't use
+smart_automation_mid,Don't own
+smart_monitors,Own and use
+smart_monitors,Own but don't use
+smart_monitors,Don't own
+smart_monitors_mid,Own and use
+smart_monitors_mid,Own but don't use
+smart_monitors_mid,Don't own
+smartphone,0
+smartphone,1
+smartphone,2
+smartphone,3
+smartphone,4
+smartphone,5+
+sound_system,0
+sound_system,1
+sound_system,2
+sound_system,3
+sound_system,4
+sound_system,5+
+structural_changes_mid,Divided a room (e.g. by adding a partitioning wall)
+structural_changes_mid,Joined rooms together (e.g. by knocking down a wall)
+structural_changes_mid,"Added new rooms (e.g. extension, loft extension)"
+tablet,0
+tablet,1
+tablet,2
+tablet,3
+tablet,4
+tablet,5+
+tablet_taafi_avoid_7_initial,Absolutely false: 1
+tablet_taafi_avoid_7_initial,2
+tablet_taafi_avoid_7_initial,3
+tablet_taafi_avoid_7_initial,Neutral: 4
+tablet_taafi_avoid_7_initial,5
+tablet_taafi_avoid_7_initial,6
+tablet_taafi_avoid_7_initial,Absolutely true: 7
+tablet_taafi_enjoy_7_initial,Absolutely false: 1
+tablet_taafi_enjoy_7_initial,2
+tablet_taafi_enjoy_7_initial,3
+tablet_taafi_enjoy_7_initial,Neutral: 4
+tablet_taafi_enjoy_7_initial,5
+tablet_taafi_enjoy_7_initial,6
+tablet_taafi_enjoy_7_initial,Absolutely true: 7
+tablet_taafi_fear_7_initial,Absolutely false: 1
+tablet_taafi_fear_7_initial,2
+tablet_taafi_fear_7_initial,3
+tablet_taafi_fear_7_initial,Neutral: 4
+tablet_taafi_fear_7_initial,5
+tablet_taafi_fear_7_initial,6
+tablet_taafi_fear_7_initial,Absolutely true: 7
+tablet_taafi_important_7_initial,Absolutely false: 1
+tablet_taafi_important_7_initial,2
+tablet_taafi_important_7_initial,3
+tablet_taafi_important_7_initial,Neutral: 4
+tablet_taafi_important_7_initial,5
+tablet_taafi_important_7_initial,6
+tablet_taafi_important_7_initial,Absolutely true: 7
+tablet_taafi_install_7_initial,Absolutely false: 1
+tablet_taafi_install_7_initial,2
+tablet_taafi_install_7_initial,3
+tablet_taafi_install_7_initial,Neutral: 4
+tablet_taafi_install_7_initial,5
+tablet_taafi_install_7_initial,6
+tablet_taafi_install_7_initial,Absolutely true: 7
+tablet_taafi_learn_apps_7_initial,Absolutely false: 1
+tablet_taafi_learn_apps_7_initial,2
+tablet_taafi_learn_apps_7_initial,3
+tablet_taafi_learn_apps_7_initial,Neutral: 4
+tablet_taafi_learn_apps_7_initial,5
+tablet_taafi_learn_apps_7_initial,6
+tablet_taafi_learn_apps_7_initial,Absolutely true: 7
+tablet_taafi_understand_7_initial,Absolutely false: 1
+tablet_taafi_understand_7_initial,2
+tablet_taafi_understand_7_initial,3
+tablet_taafi_understand_7_initial,Neutral: 4
+tablet_taafi_understand_7_initial,5
+tablet_taafi_understand_7_initial,6
+tablet_taafi_understand_7_initial,Absolutely true: 7
+television,0
+television,1
+television,2
+television,3
+television,4
+television,5+
+transport_car_8_initial,1: Very badly connected
+transport_car_8_initial,2
+transport_car_8_initial,3
+transport_car_8_initial,4
+transport_car_8_initial,5
+transport_car_8_initial,6
+transport_car_8_initial,7: Very well connected
+transport_cycle_8_initial,1: Very badly connected
+transport_cycle_8_initial,2
+transport_cycle_8_initial,3
+transport_cycle_8_initial,4
+transport_cycle_8_initial,5
+transport_cycle_8_initial,6
+transport_cycle_8_initial,7: Very well connected
+transport_foot_8_initial,1: Very badly connected
+transport_foot_8_initial,2
+transport_foot_8_initial,3
+transport_foot_8_initial,4
+transport_foot_8_initial,5
+transport_foot_8_initial,6
+transport_foot_8_initial,7: Very well connected
+transport_public_8_initial,1: Very badly connected
+transport_public_8_initial,2
+transport_public_8_initial,3
+transport_public_8_initial,4
+transport_public_8_initial,5
+transport_public_8_initial,6
+transport_public_8_initial,7: Very well connected
+vacuum_cleaner,0
+vacuum_cleaner,1
+vacuum_cleaner,2
+vacuum_cleaner,3
+vacuum_cleaner,4
+vacuum_cleaner,5+
+vacuum_cleaner_mid,Replaced
+vacuum_cleaner_mid,Got or installed additional
+vacuum_cleaner_mid,Fallen out of use
+washing_machine_mid,Replaced
+washing_machine_mid,Got or installed additional
+washing_machine_mid,Fallen out of use
+weeklyhoursofwork,0
+weeklyhoursofwork,1-10
+weeklyhoursofwork,11-20
+weeklyhoursofwork,21-30
+weeklyhoursofwork,31-40
+weeklyhoursofwork,41-50
+weeklyhoursofwork,51+
+weeklyhoursofwork,0-10
+weeklyhoursofwork_repeat_end,0
+weeklyhoursofwork_repeat_end,1-10
+weeklyhoursofwork_repeat_end,11-20
+weeklyhoursofwork_repeat_end,21-30
+weeklyhoursofwork_repeat_end,31-40
+weeklyhoursofwork_repeat_end,41-50
+weeklyhoursofwork_repeat_end,51+
+weeklyhoursofwork_repeat_mid,0
+weeklyhoursofwork_repeat_mid,1-10
+weeklyhoursofwork_repeat_mid,11-20
+weeklyhoursofwork_repeat_mid,21-30
+weeklyhoursofwork_repeat_mid,31-40
+weeklyhoursofwork_repeat_mid,41-50
+weeklyhoursofwork_repeat_mid,51+
+whyparticipate_energyuse_4b_initial,1: Not a motivation at all
+whyparticipate_energyuse_4b_initial,2
+whyparticipate_energyuse_4b_initial,3
+whyparticipate_energyuse_4b_initial,4
+whyparticipate_energyuse_4b_initial,5
+whyparticipate_energyuse_4b_initial,6
+whyparticipate_energyuse_4b_initial,7: Very strong motivation
+whyparticipate_env_4b_initial,1: Not a motivation at all
+whyparticipate_env_4b_initial,2
+whyparticipate_env_4b_initial,3
+whyparticipate_env_4b_initial,4
+whyparticipate_env_4b_initial,5
+whyparticipate_env_4b_initial,6
+whyparticipate_env_4b_initial,7: Very strong motivation
+whyparticipate_help_4b_initial,1: Not a motivation at all
+whyparticipate_help_4b_initial,2
+whyparticipate_help_4b_initial,3
+whyparticipate_help_4b_initial,4
+whyparticipate_help_4b_initial,5
+whyparticipate_help_4b_initial,6
+whyparticipate_help_4b_initial,7: Very strong motivation
+whyparticipate_money_4b_initial,1: Not a motivation at all
+whyparticipate_money_4b_initial,2
+whyparticipate_money_4b_initial,3
+whyparticipate_money_4b_initial,4
+whyparticipate_money_4b_initial,5
+whyparticipate_money_4b_initial,6
+whyparticipate_money_4b_initial,7: Very strong motivation
+whyparticipate_other_4b_initial,1: Not a motivation at all
+whyparticipate_other_4b_initial,2
+whyparticipate_other_4b_initial,3
+whyparticipate_other_4b_initial,4
+whyparticipate_other_4b_initial,5
+whyparticipate_other_4b_initial,6
+whyparticipate_other_4b_initial,7: Very strong motivation
+whyparticipate_persuaded_4b_initial,1: Not a motivation at all
+whyparticipate_persuaded_4b_initial,2
+whyparticipate_persuaded_4b_initial,3
+whyparticipate_persuaded_4b_initial,4
+whyparticipate_persuaded_4b_initial,5
+whyparticipate_persuaded_4b_initial,6
+whyparticipate_persuaded_4b_initial,7: Very strong motivation
+whyparticipate_tablet_4b_initial,1: Not a motivation at all
+whyparticipate_tablet_4b_initial,2
+whyparticipate_tablet_4b_initial,3
+whyparticipate_tablet_4b_initial,4
+whyparticipate_tablet_4b_initial,5
+whyparticipate_tablet_4b_initial,6
+whyparticipate_tablet_4b_initial,7: Very strong motivation
+whyparticipate_tech_4b_initial,1: Not a motivation at all
+whyparticipate_tech_4b_initial,2
+whyparticipate_tech_4b_initial,3
+whyparticipate_tech_4b_initial,4
+whyparticipate_tech_4b_initial,5
+whyparticipate_tech_4b_initial,6
+whyparticipate_tech_4b_initial,7: Very strong motivation
+whyparticipate_temp_and_humid_4b_initial,1: Not a motivation at all
+whyparticipate_temp_and_humid_4b_initial,2
+whyparticipate_temp_and_humid_4b_initial,3
+whyparticipate_temp_and_humid_4b_initial,4
+whyparticipate_temp_and_humid_4b_initial,5
+whyparticipate_temp_and_humid_4b_initial,6
+whyparticipate_temp_and_humid_4b_initial,7: Very strong motivation
+wine_cooler_mid,Replaced
+wine_cooler_mid,Got or installed additional
+wine_cooler_mid,Fallen out of use
+workingstatus,Paid work
+workingstatus,Self-employed
+workingstatus,Unemployed (not seeking work)
+workingstatus,Unemployed (seeking work)
+workingstatus,"A student in University, college, higher education or adult education"
+workingstatus,A student at school or in further education
+workingstatus,Voluntary or unpaid work
+workingstatus,Retired
+workingstatus,Looking after home/family
+workingstatus,Permanently sick/disabled
+workingstatus,Pre-school/ nursery
+workingstatus,Other
+workingstatus_repeat_end,Paid work
+workingstatus_repeat_end,Self-employed
+workingstatus_repeat_end,Unemployed (not seeking work)
+workingstatus_repeat_end,Unemployed (seeking work)
+workingstatus_repeat_end,"A student in University, college, higher education or adult education"
+workingstatus_repeat_end,A student at school or in further education
+workingstatus_repeat_end,Voluntary or unpaid work
+workingstatus_repeat_end,Retired
+workingstatus_repeat_end,Looking after home/family
+workingstatus_repeat_end,Permanently sick/disabled
+workingstatus_repeat_end,Other
+workingstatus_repeat_mid,Paid work
+workingstatus_repeat_mid,Self-employed
+workingstatus_repeat_mid,Unemployed (not seeking work)
+workingstatus_repeat_mid,Unemployed (seeking work)
+workingstatus_repeat_mid,"A student in University, college, higher education or adult education"
+workingstatus_repeat_mid,A student at school or in further education
+workingstatus_repeat_mid,Voluntary or unpaid work
+workingstatus_repeat_mid,Retired
+workingstatus_repeat_mid,Looking after home/family
+workingstatus_repeat_mid,Permanently sick/disabled
+workingstatus_repeat_mid,Other
