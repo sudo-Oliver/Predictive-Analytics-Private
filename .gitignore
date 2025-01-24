@@ -3,3 +3,5 @@ notebooks/data/processed/household_sensors_electric.csv
 notebooks/data/processed/household_sensors_gas.csv
 notebooks/data/processed/household_sensors_tempprobe.csv
 notebooks/data/processed/room_and_appliance_sensors_room.csv
+data/.DS_Store
+.DS_Store
