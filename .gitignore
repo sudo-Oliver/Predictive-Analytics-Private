@@ -6,3 +6,4 @@ notebooks/data/processed/room_and_appliance_sensors_room.csv
 data/.DS_Store
 .DS_Store
 notebooks/*.parquet
+notebooks/data/processed/final_processed_data3.parquet
