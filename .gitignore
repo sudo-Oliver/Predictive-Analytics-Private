@@ -11,3 +11,4 @@ notebooks/lstm_preprocessed_data.parquet
 notebooks/data/processed/household_sensors_tempprobe.csv
 notebooks/data/processed/household_sensors_electric.csv
 notebooks/temp_arrays/*.mmap
+notebooks/checkpoints/*
