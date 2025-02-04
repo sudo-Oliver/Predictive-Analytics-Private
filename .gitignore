@@ -11,4 +11,15 @@ notebooks/lstm_preprocessed_data.parquet
 notebooks/data/processed/household_sensors_tempprobe.csv
 notebooks/data/processed/household_sensors_electric.csv
 notebooks/temp_arrays/*.mmap
-notebooks/checkpoints/*
+notebooks/checkpoints/*data/processed/final_processed_data3.parquet
+data/raw/metadata/appliance.csv
+data/raw/metadata/home.csv
+references/1-s2.0-S0378778821007933-main.pdf
+references/The IDEAL household energy dataset, electricity, gas, contextual sensor data and survey data for 255 UK homes.pdf
+data/raw/metadata/other_appliance.csv
+data/raw/metadata/person.csv
+data/raw/metadata/room.csv
+data/raw/metadata/sensor.csv
+data/raw/metadata/sensorbox.csv
+data/raw/metadata/tariff.csv
+data/raw/metadata/weatherfeed.csv
