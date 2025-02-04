@@ -23,3 +23,5 @@ data/raw/metadata/sensor.csv
 data/raw/metadata/sensorbox.csv
 data/raw/metadata/tariff.csv
 data/raw/metadata/weatherfeed.csv
+notebooks/checkpoints/
+data/processed/final_processed_data3.parquet
