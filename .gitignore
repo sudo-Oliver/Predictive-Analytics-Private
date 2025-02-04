@@ -40,4 +40,18 @@ ENV/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db
+Thumbs.db# Checkpoints
+notebooks/checkpoints/
+notebooks/checkpoints/*.pt
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+notebooks/data/processed/room_and_appliance_sensors_room.csv
+notebooks/data/processed/household_sensors_tempprobe.csv
+notebooks/data/processed/household_sensors_gas.csv
+notebooks/data/processed/household_sensors_electric.csv
+notebooks/data/processed/final_processed_data3.parquet
+notebooks/sensor_data.7z
+notebooks/lstm_preprocessed_data.parquet
