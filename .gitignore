@@ -3,3 +3,11 @@ notebooks/temp_arrays/
 *.mmap
 __pycache__/
 .ipynb_checkpoints/
+notebooks/data/processed/room_and_appliance_sensors_room.csv
+notebooks/data/processed/household_sensors_gas.csv
+notebooks/sensor_data.7z
+notebooks/data/processed/final_processed_data3.parquet
+notebooks/lstm_preprocessed_data.parquet
+notebooks/data/processed/household_sensors_tempprobe.csv
+notebooks/data/processed/household_sensors_electric.csv
+notebooks/temp_arrays/*.mmap
