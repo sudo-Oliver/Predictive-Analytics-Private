@@ -1,26 +1,5 @@
-notebooks/sensor_data.7z
-notebooks/data/processed/household_sensors_electric.csv
-notebooks/data/processed/household_sensors_gas.csv
-notebooks/data/processed/household_sensors_tempprobe.csv
-notebooks/data/processed/room_and_appliance_sensors_room.csv
-data/.DS_Store
-.DS_Store
-notebooks/*.parquet
-notebooks/data/processed/final_processed_data3.parquet
-notebooks/temp_arrays
-notebooks/data/processed
-notebooks/checkpoints# Ignore memory-mapped files
-notebooks/temp_arrays/*.mmap
+# Ignore memory-mapped files and temp data
+notebooks/temp_arrays/
 *.mmap
-
-# Python cache
 __pycache__/
-*.py[cod]
-*.class
-
-# Jupyter
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# Model checkpoints
-checkpoints/
+.ipynb_checkpoints/
