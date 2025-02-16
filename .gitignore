@@ -74,3 +74,4 @@ notebooks/raw/sensor/sensor_data.7z
 notebooks/raw/sensor/household_sensors_gas.csv
 .gitignore
 notebooks/raw/sensor/household_sensors_electric.csv
+notebooks/test.txt
