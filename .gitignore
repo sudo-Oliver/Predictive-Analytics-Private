@@ -55,3 +55,13 @@ notebooks/data/processed/household_sensors_electric.csv
 notebooks/data/processed/final_processed_data3.parquet
 notebooks/sensor_data.7z
 notebooks/lstm_preprocessed_data.parquet
+notebooks/Predicitve Analytics Private.code-workspace
+
+# Figures
+reports/figures
+
+# 
+reports/tables/model_metrics.csv
+
+reports
+
